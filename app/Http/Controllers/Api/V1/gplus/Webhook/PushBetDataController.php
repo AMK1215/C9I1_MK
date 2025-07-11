@@ -39,7 +39,7 @@ class PushBetDataController extends Controller
         try {
             $request->validate([
                 'operator_code' => 'required|string',
-                'batch_requests' => 'required|array', // Validate the outer array
+                //'batch_requests' => 'required|array', // Validate the outer array
                 'batch_requests.*.transactions' => 'required|array', // Validate transactions array within each batch request
                 'sign' => 'required|string',
                 'request_time' => 'required|integer', // Assuming Unix timestamp in seconds or milliseconds
