@@ -45,7 +45,7 @@ class GetBalanceController extends Controller
                 $results[] = [
                     'member_account' => $req['member_account'],
                     'product_code' => $req['product_code'],
-                    'balance' => '0.00',
+                    'balance' => (float) 0.00,
                     'code' => \App\Enums\SeamlessWalletCode::InvalidSignature->value,
                     'message' => 'Incorrect Signature',
                 ];
@@ -57,7 +57,7 @@ class GetBalanceController extends Controller
                 $results[] = [
                     'member_account' => $req['member_account'],
                     'product_code' => $req['product_code'],
-                    'balance' => '0.00',
+                    'balance' => (float) 0.00,
                     'code' => \App\Enums\SeamlessWalletCode::InternalServerError->value,
                     'message' => 'Invalid Currency',
                 ];
