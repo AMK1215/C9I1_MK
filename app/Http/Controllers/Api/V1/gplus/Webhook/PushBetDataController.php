@@ -16,7 +16,7 @@ class PushBetDataController extends Controller
 {
     public function pushBetData(Request $request)
     {
-        // Log::info('Push Bet Data API Request', ['request' => $request->all()]);
+        Log::info('Push Bet Data API Request', ['request' => $request->all()]);
 
         try {
             $request->validate([
