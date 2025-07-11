@@ -144,11 +144,7 @@ class WithdrawController extends Controller
                     continue;
                 }
 
-                if($user->balanceFloat < $batchRequest['bet_amount']) {
-                    $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, 0.00, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
-
-                    continue;
-                }
+               
 
                 $initialBalance = $user->wallet->balanceFloat; // Get initial balance before processing any transactions in this batch
                 $currentBalance = $initialBalance; // This will track balance changes within the batch for accurate reporting
