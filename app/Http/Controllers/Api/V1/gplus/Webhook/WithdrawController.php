@@ -261,14 +261,8 @@ class WithdrawController extends Controller
                             }
 
                             if ($userWithWallet->balanceFloat < $convertedAmount) {
-                                $responseData[] = [
-                                    'member_account' => $memberAccount,
-                                    'product_code' => (int) $productCode,
-                                    'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                                    'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                                    'code' => SeamlessWalletCode::InsufficientBalance->value,
-                                    'message' => 'Insufficient balance',
-                                ];
+                                $this->logPlaceBet($batchRequest, $request, $tx, 'InsufficientBalance', $request->request_time, 'Insufficient Balance', $currentBalance, $currentBalance);
+                                $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
                                 // Stop further processing for this transaction
                                 continue;
                             }
