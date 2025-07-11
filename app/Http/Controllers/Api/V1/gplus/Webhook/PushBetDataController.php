@@ -65,11 +65,11 @@ class PushBetDataController extends Controller
                 ]);
             }
 
-            $transactionId = $tx['wager_code'] ?? null;
-            if (! $transactionId) {
+            // Use wager_code as the unique identifier for upsert
+            $wagerCode = $tx['wager_code'] ?? null;
+            if (!$wagerCode) {
                 Log::warning('Transaction missing wager_code in pushBetData', ['tx' => $tx]);
-
-                continue; // Skip this specific wager if it lacks a transaction ID
+                continue; // Skip this specific wager if it lacks a wager_code
             }
 
             // Convert timestamps from milliseconds to seconds if they are in milliseconds
@@ -81,56 +81,46 @@ class PushBetDataController extends Controller
             $settledAtInSeconds = (isset($tx['settled_at']) && $tx['settled_at']) ? floor($tx['settled_at'] / 1000) : null;
             $createdAtProviderInSeconds = (isset($tx['created_at']) && $tx['created_at']) ? floor($tx['created_at'] / 1000) : null;
 
-            $placeBet = PushBet::where('transaction_id', $transactionId)->first();
+            $pushBet = PushBet::where('wager_code', $wagerCode)->first();
 
-            if ($placeBet) {
+            if ($pushBet) {
                 // Update existing record
-                $placeBet->update([
-                    'member_account' => $tx['member_account'] ?? $placeBet->member_account,
-                    'product_code' => $tx['product_code'] ?? $placeBet->product_code,
-                    'amount' => $tx['bet_amount'] ?? $placeBet->amount, // Assuming 'bet_amount' is the amount for this context
-                    'action' => $tx['wager_type'] ?? $placeBet->action,
-                    'status' => $tx['wager_status'] ?? $placeBet->status,
-                    'meta' => json_encode($tx), // Ensure meta is stored as JSON string
-                    'wager_status' => $tx['wager_status'] ?? $placeBet->wager_status,
-                    'round_id' => $tx['round_id'] ?? $placeBet->round_id,
-                    'game_type' => $tx['game_type'] ?? $placeBet->game_type,
-                    'channel_code' => $tx['channel_code'] ?? $placeBet->channel_code,
-                    // Convert timestamp to DateTime object if it's not already
-                    'settle_at' => $settledAtInSeconds ? now()->setTimestamp($settledAtInSeconds) : $placeBet->settle_at,
-                    'created_at_provider' => $createdAtProviderInSeconds ? now()->setTimestamp($createdAtProviderInSeconds) : $placeBet->created_at_provider,
-                    'currency' => $tx['currency'] ?? $placeBet->currency,
-                    'game_code' => $tx['game_code'] ?? $placeBet->game_code,
-                    // No need to update operator_code here as it's typically set on creation
+                $pushBet->update([
+                    'member_account'      => $tx['member_account'] ?? $pushBet->member_account,
+                    'currency'            => $tx['currency'] ?? $pushBet->currency,
+                    'product_code'        => $tx['product_code'] ?? $pushBet->product_code,
+                    'game_code'           => $tx['game_code'] ?? $pushBet->game_code,
+                    'game_type'           => $tx['game_type'] ?? $pushBet->game_type,
+                    'wager_code'          => $tx['wager_code'] ?? $pushBet->wager_code,
+                    'wager_type'          => $tx['wager_type'] ?? $pushBet->wager_type,
+                    'wager_status'        => $tx['wager_status'] ?? $pushBet->wager_status,
+                    'bet_amount'          => $tx['bet_amount'] ?? $pushBet->bet_amount,
+                    'valid_bet_amount'    => $tx['valid_bet_amount'] ?? $pushBet->valid_bet_amount,
+                    'prize_amount'        => $tx['prize_amount'] ?? $pushBet->prize_amount,
+                    'tip_amount'          => $tx['tip_amount'] ?? $pushBet->tip_amount,
+                    'created_at_provider' => (isset($tx['created_at']) && is_numeric($tx['created_at'])) ? now()->setTimestamp($tx['created_at']) : $pushBet->created_at_provider,
+                    'settled_at'          => (isset($tx['settled_at']) && is_numeric($tx['settled_at'])) ? now()->setTimestamp($tx['settled_at']) : $pushBet->settled_at,
+                    'meta'                => json_encode($tx),
                 ]);
-                // Log::info('Updated place_bets record via PushBetData', ['transaction_id' => $transactionId]);
             } else {
                 // Insert new record
                 PushBet::create([
-                    'transaction_id' => $transactionId,
-                    'member_account' => $tx['member_account'] ?? '',
-                    'product_code' => $tx['product_code'] ?? 0,
-                    'amount' => $tx['bet_amount'] ?? 0,
-                    'action' => $tx['wager_type'] ?? '',
-                    'status' => $tx['wager_status'] ?? '', // Initial status from pushbetdata
-                    'meta' => json_encode($tx),
-                    'wager_status' => $tx['wager_status'] ?? '',
-                    'round_id' => $tx['round_id'] ?? '',
-                    'game_type' => $tx['game_type'] ?? '',
-                    'channel_code' => $tx['channel_code'] ?? '',
-                    // FIX: Add operator_code here, as it's a required field in your DB
-                    'operator_code' => $request->operator_code,
-                    // FIX: Add request_time from the main request
-                   // 'request_time' => $requestTimeInSeconds ? now()->setTimestamp($requestTimeInSeconds) : null,
-                   'request_time' => $requestTimeInSeconds ? now()->setTimestamp($requestTimeInSeconds) : null,
-                    // Convert timestamp to DateTime object if it's not already
-                    'settle_at' => $settledAtInSeconds ? now()->setTimestamp($settledAtInSeconds) : null,
-                    'created_at_provider' => $createdAtProviderInSeconds ? now()->setTimestamp($createdAtProviderInSeconds) : null,
-                    'currency' => $tx['currency'] ?? '',
-                    'game_code' => $tx['game_code'] ?? '',
-                    'sign' => $request->sign, // Also store the sign
+                    'member_account'      => $tx['member_account'] ?? '',
+                    'currency'            => $tx['currency'] ?? '',
+                    'product_code'        => $tx['product_code'] ?? 0,
+                    'game_code'           => $tx['game_code'] ?? '',
+                    'game_type'           => $tx['game_type'] ?? '',
+                    'wager_code'          => $tx['wager_code'] ?? '',
+                    'wager_type'          => $tx['wager_type'] ?? '',
+                    'wager_status'        => $tx['wager_status'] ?? '',
+                    'bet_amount'          => $tx['bet_amount'] ?? 0,
+                    'valid_bet_amount'    => $tx['valid_bet_amount'] ?? 0,
+                    'prize_amount'        => $tx['prize_amount'] ?? 0,
+                    'tip_amount'          => $tx['tip_amount'] ?? 0,
+                    'created_at_provider' => (isset($tx['created_at']) && is_numeric($tx['created_at'])) ? now()->setTimestamp($tx['created_at']) : null,
+                    'settled_at'          => (isset($tx['settled_at']) && is_numeric($tx['settled_at'])) ? now()->setTimestamp($tx['settled_at']) : null,
+                    'meta'                => json_encode($tx),
                 ]);
-                // Log::info('Inserted new place_bets record via PushBetData', ['transaction_id' => $transactionId]);
             }
         }
 
