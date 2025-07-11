@@ -21,7 +21,7 @@ class PushBetDataController extends Controller
         try {
             $request->validate([
                 'operator_code' => 'required|string',
-                'wagers' => 'required|array',
+                'transactions' => 'required|array',
                 'sign' => 'required|string',
                 'request_time' => 'required|integer', // Assuming Unix timestamp in seconds or milliseconds
             ]);
@@ -52,7 +52,7 @@ class PushBetDataController extends Controller
             ]);
         }
 
-        foreach ($request->wagers as $tx) {
+        foreach ($request->transactions as $tx) {
             $memberAccount = $tx['member_account'] ?? null;
             $user = User::where('user_name', $memberAccount)->first();
 
