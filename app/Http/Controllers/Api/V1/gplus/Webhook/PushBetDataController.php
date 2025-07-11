@@ -18,10 +18,29 @@ class PushBetDataController extends Controller
     {
         Log::info('Push Bet Data API Request', ['request' => $request->all()]);
 
+        // try {
+        //     $request->validate([
+        //         'operator_code' => 'required|string',
+                
+        //         'transactions' => 'required|array',
+        //         'sign' => 'required|string',
+        //         'request_time' => 'required|integer', // Assuming Unix timestamp in seconds or milliseconds
+        //     ]);
+        // } catch (\Illuminate\Validation\ValidationException $e) {
+        //     Log::warning('Push Bet Data API Validation Failed', ['errors' => $e->errors()]);
+
+        //     return ApiResponseService::error(
+        //         SeamlessWalletCode::InternalServerError, // Or a more specific validation error code
+        //         'Validation failed',
+        //         $e->errors()
+        //     );
+        // }
+
         try {
             $request->validate([
                 'operator_code' => 'required|string',
-                'transactions' => 'required|array',
+                'batch_requests' => 'required|array', // Validate the outer array
+                'batch_requests.*.transactions' => 'required|array', // Validate transactions array within each batch request
                 'sign' => 'required|string',
                 'request_time' => 'required|integer', // Assuming Unix timestamp in seconds or milliseconds
             ]);
