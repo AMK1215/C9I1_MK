@@ -241,6 +241,12 @@ class WithdrawController extends Controller
 
                         $beforeTransactionBalance = $userWithWallet->wallet->balanceFloat;
 
+                        if($userWithWallet->balanceFloat < $tx['bet_amount']) {
+                            $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
+                            // Stop further processing for this transaction
+                            continue;
+                        }
+
                         // Handle actions that represent debits
                         if ($action === 'BET' || $action === 'ADJUST_DEBIT' || $action === 'WITHDRAW' || $action === 'FEE') {
                             if ($convertedAmount <= 0) {
@@ -260,12 +266,11 @@ class WithdrawController extends Controller
                                 continue;
                             }
 
-                            if ($userWithWallet->balanceFloat < $convertedAmount) {
-                                $this->logPlaceBet($batchRequest, $request, $tx, 'InsufficientBalance', $request->request_time, 'Insufficient Balance', $currentBalance, $currentBalance);
-                                $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
-                                // Stop further processing for this transaction
-                                continue;
-                            }
+                            // if ($userWithWallet->balanceFloat < $convertedAmount) {
+                            //     $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
+                            //     // Stop further processing for this transaction
+                            //     continue;
+                            // }
 
                             // Perform the withdrawal
                             $this->walletService->withdraw($userWithWallet, $convertedAmount, TransactionName::Withdraw, $meta);
