@@ -243,11 +243,19 @@ class WithdrawController extends Controller
 
                         $beforeTransactionBalance = $userWithWallet->wallet->balanceFloat;
 
-                        // if($userWithWallet->balanceFloat < $tx['bet_amount']) {
-                        //     $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
-                        //     // Stop further processing for this transaction
-                        //     continue;
-                        // }
+                        // Check for insufficient balance BEFORE withdrawal
+                        if ($userWithWallet->balanceFloat < $convertedAmount) {
+                            $responseData[] = [
+                                'member_account' => $memberAccount,
+                                'product_code' => (int) $productCode,
+                                'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+                                'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+                                'code' => SeamlessWalletCode::InsufficientBalance->value,
+                                'message' => 'Insufficient balance',
+                            ];
+                            DB::commit(); // or DB::rollBack(); depending on your logic
+                            continue;
+                        }
 
                         // Handle actions that represent debits
                         if ($action === 'BET' || $action === 'ADJUST_DEBIT' || $action === 'WITHDRAW' || $action === 'FEE') {
@@ -268,11 +276,7 @@ class WithdrawController extends Controller
                                 continue;
                             }
 
-                            // if ($userWithWallet->balanceFloat < $convertedAmount) {
-                            //     $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
-                            //     // Stop further processing for this transaction
-                            //     continue;
-                            // }
+                            // b c
 
                             // Perform the withdrawal
                             $this->walletService->withdraw($userWithWallet, $convertedAmount, TransactionName::Withdraw, $meta);
