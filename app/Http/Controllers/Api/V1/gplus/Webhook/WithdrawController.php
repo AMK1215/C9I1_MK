@@ -261,12 +261,11 @@ class WithdrawController extends Controller
                             }
 
                             if ($userWithWallet->balanceFloat < $convertedAmount) {
-                                // Should Return Error Code: 1001, Insufficient Balance
                                 $responseData[] = [
                                     'member_account' => $memberAccount,
                                     'product_code' => (int) $productCode,
                                     'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                                    'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency), // Balance doesn't change
+                                    'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
                                     'code' => SeamlessWalletCode::InsufficientBalance->value,
                                     'message' => 'Insufficient balance',
                                 ];
