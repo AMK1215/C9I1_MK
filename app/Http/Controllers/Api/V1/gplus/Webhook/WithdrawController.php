@@ -243,8 +243,20 @@ class WithdrawController extends Controller
 
                         $beforeTransactionBalance = $userWithWallet->wallet->balanceFloat;
 
+                        // Log balance and amount before insufficient balance check
+                        Log::info('WithdrawController: Checking balance for insufficient funds', [
+                            'member_account' => $memberAccount,
+                            'balance' => $userWithWallet->balanceFloat,
+                            'convertedAmount' => $convertedAmount,
+                        ]);
+
                         // Check for insufficient balance BEFORE withdrawal
                         if ($userWithWallet->balanceFloat < $convertedAmount) {
+                            Log::warning('WithdrawController: Insufficient balance detected', [
+                                'member_account' => $memberAccount,
+                                'balance' => $userWithWallet->balanceFloat,
+                                'convertedAmount' => $convertedAmount,
+                            ]);
                             $responseData[] = [
                                 'member_account' => $memberAccount,
                                 'product_code' => (int) $productCode,
@@ -253,7 +265,7 @@ class WithdrawController extends Controller
                                 'code' => SeamlessWalletCode::InsufficientBalance->value,
                                 'message' => 'Insufficient balance',
                             ];
-                            DB::commit(); // or DB::rollBack(); depending on your logic
+                            DB::commit();
                             continue;
                         }
 
