@@ -1,0 +1,12 @@
+INSERT INTO "public"."report_transactions" ("id", "user_id", "transaction_amount", "bet_amount", "valid_amount", "status", "banker", "before_balance", "after_balance", "created_at", "updated_at", "agent_id", "member_account", "settled_status", "wager_code") VALUES
+(2, 4, 10000.00, NULL, NULL, '1', '1', 10000.0000, 20000.0000, '2025-07-05 06:25:34', '2025-07-05 06:25:34', 3, 'PLAYER0101', 'settled_win', 'xIFvbuPnRU');
+INSERT INTO "public"."report_transactions" ("id", "user_id", "transaction_amount", "bet_amount", "valid_amount", "status", "banker", "before_balance", "after_balance", "created_at", "updated_at", "agent_id", "member_account", "settled_status", "wager_code") VALUES
+(3, 5, 50.00, 100.00, 100.00, '1', '0', 10000.0000, 10050.0000, '2025-07-05 06:25:34', '2025-07-05 06:25:34', 3, 'PLAYER0102', 'settled_win', 'Q3lNNCSRLJ');
+INSERT INTO "public"."report_transactions" ("id", "user_id", "transaction_amount", "bet_amount", "valid_amount", "status", "banker", "before_balance", "after_balance", "created_at", "updated_at", "agent_id", "member_account", "settled_status", "wager_code") VALUES
+(4, 6, 20.00, 150.00, 150.00, '0', '0', 10000.0000, 9980.0000, '2025-07-05 06:25:34', '2025-07-05 06:25:34', 3, 'PLAYER0103', 'settled_loss', 'SCkgfuHREI');
+INSERT INTO "public"."report_transactions" ("id", "user_id", "transaction_amount", "bet_amount", "valid_amount", "status", "banker", "before_balance", "after_balance", "created_at", "updated_at", "agent_id", "member_account", "settled_status", "wager_code") VALUES
+(5, 7, 80.00, 200.00, 200.00, '1', '0', 10000.0000, 10080.0000, '2025-07-05 06:25:34', '2025-07-05 06:25:34', 3, 'PLAYER0104', 'settled_win', 'fzrohEQ75g'),
+(6, 6, 185.00, NULL, NULL, '1', '1', 9980.0000, 10165.0000, '2025-07-05 06:32:35', '2025-07-05 06:32:35', 3, 'PLAYER0103', 'settled_win', 'qIC0FBB4hR'),
+(7, 4, 10.00, 10.00, 10.00, '1', '0', 20000.0000, 20010.0000, '2025-07-05 06:32:35', '2025-07-05 06:32:35', 3, 'PLAYER0101', 'settled_win', 'dWbIeXeZCm'),
+(8, 6, 165.00, NULL, NULL, '1', '1', 10165.0000, 10330.0000, '2025-07-05 06:33:03', '2025-07-05 06:33:03', 3, 'PLAYER0103', 'settled_win', '2Bun4GiqiS'),
+(9, 4, 20.00, 10.00, 10.00, '1', '0', 20010.0000, 20030.0000, '2025-07-05 06:33:03', '2025-07-05 06:33:03', 3, 'PLAYER0101', 'settled_win', 'lSyNeusL2b');
