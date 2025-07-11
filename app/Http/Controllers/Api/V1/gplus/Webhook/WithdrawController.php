@@ -270,7 +270,8 @@ class WithdrawController extends Controller
                                     'code' => SeamlessWalletCode::InsufficientBalance->value,
                                     'message' => 'Insufficient balance',
                                 ];
-                                //throw new InsufficientFunds('Insufficient balance for '.$action);
+                                // Stop further processing for this transaction
+                                continue;
                             }
 
                             // Perform the withdrawal
