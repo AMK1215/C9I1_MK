@@ -102,13 +102,18 @@ class PushBetDataController extends Controller
             ]);
         }
     }
-
+    
     return response()->json([
-        'code'    => SeamlessWalletCode::Success->value,
+        'code' => SeamlessWalletCode::Success->value,
         'message' => '',
-        'before_balance' => 0.0,
-        'balance'        => 0.0,
     ]);
+    
+    // return response()->json([
+    //     'code'    => SeamlessWalletCode::Success->value,
+    //     'message' => '',
+    //     'before_balance' => 0.0,
+    //     'balance'        => 0.0,
+    // ]);
 }
 
     
