@@ -41,19 +41,13 @@ class PushBetDataController extends Controller
         $memberAccount = $tx['member_account'] ?? null;
         $transactionId = $tx['wager_code'] ?? null;
 
-        if (!$memberAccount || !$transactionId) {
-            Log::warning('Missing member_account or wager_code', ['tx' => $tx]);
-            continue;
-        }
-
         $user = User::where('user_name', $memberAccount)->first();
-        if (!$user) {
-            Log::warning('Member not found for pushBetData', ['member_account' => $memberAccount]);
+
+        if (! $user) {
+            Log::warning('Member not found for pushBetData', ['member_account' => $memberAccount, 'transaction' => $tx]);
             return response()->json([
-                'code'    => SeamlessWalletCode::MemberNotExist->value,
+                'code' => SeamlessWalletCode::MemberNotExist->value,
                 'message' => 'Member not found',
-                'before_balance' => 0.0,
-                'balance'        => 0.0,
             ]);
         }
 
@@ -107,7 +101,7 @@ class PushBetDataController extends Controller
         'code' => SeamlessWalletCode::Success->value,
         'message' => '',
     ]);
-    
+
     // return response()->json([
     //     'code'    => SeamlessWalletCode::Success->value,
     //     'message' => '',
