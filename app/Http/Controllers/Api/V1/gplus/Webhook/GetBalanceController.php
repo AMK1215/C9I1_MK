@@ -85,7 +85,7 @@ class GetBalanceController extends Controller
                 $results[] = [
                     'member_account' => $req['member_account'],
                     'product_code' => $req['product_code'],
-                    'balance' => '0.00',
+                    'balance' => (float) 0.00,
                     'code' => \App\Enums\SeamlessWalletCode::MemberNotExist->value,
                     'message' => 'Member not found',
                 ];
