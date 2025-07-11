@@ -144,6 +144,12 @@ class WithdrawController extends Controller
                     continue;
                 }
 
+                if($user->balanceFloat < $batchRequest['bet_amount']) {
+                    $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, 0.00, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
+
+                    continue;
+                }
+
                 $initialBalance = $user->wallet->balanceFloat; // Get initial balance before processing any transactions in this batch
                 $currentBalance = $initialBalance; // This will track balance changes within the batch for accurate reporting
 
@@ -241,11 +247,11 @@ class WithdrawController extends Controller
 
                         $beforeTransactionBalance = $userWithWallet->wallet->balanceFloat;
 
-                        if($userWithWallet->balanceFloat < $tx['bet_amount']) {
-                            $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
-                            // Stop further processing for this transaction
-                            continue;
-                        }
+                        // if($userWithWallet->balanceFloat < $tx['bet_amount']) {
+                        //     $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InsufficientBalance, 'Insufficient Balance', $request->currency);
+                        //     // Stop further processing for this transaction
+                        //     continue;
+                        // }
 
                         // Handle actions that represent debits
                         if ($action === 'BET' || $action === 'ADJUST_DEBIT' || $action === 'WITHDRAW' || $action === 'FEE') {
