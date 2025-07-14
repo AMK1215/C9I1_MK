@@ -127,262 +127,369 @@ class WithdrawController extends Controller
                 continue;
             }
 
-            try {
-                $user = User::where('user_name', $memberAccount)->first();
+            // try {
+            //     $user = User::where('user_name', $memberAccount)->first();
 
-                if (! $user) {
-                    Log::warning('Member not found for withdraw/bet request', ['member_account' => $memberAccount]);
-                    $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, 0.00, SeamlessWalletCode::MemberNotExist, 'Member not found', $request->currency);
+            //     if (! $user) {
+            //         Log::warning('Member not found for withdraw/bet request', ['member_account' => $memberAccount]);
+            //         $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, 0.00, SeamlessWalletCode::MemberNotExist, 'Member not found', $request->currency);
 
-                    continue;
-                }
+            //         continue;
+            //     }
 
-                if (! $user->wallet) {
-                    Log::warning('Wallet missing for member during withdraw/bet request', ['member_account' => $memberAccount]);
-                    $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, 0.00, SeamlessWalletCode::MemberNotExist, 'Member wallet missing', $request->currency);
+            //     if (! $user->wallet) {
+            //         Log::warning('Wallet missing for member during withdraw/bet request', ['member_account' => $memberAccount]);
+            //         $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, 0.00, SeamlessWalletCode::MemberNotExist, 'Member wallet missing', $request->currency);
 
-                    continue;
-                }
+            //         continue;
+            //     }
 
                
 
-                $initialBalance = $user->wallet->balanceFloat; // Get initial balance before processing any transactions in this batch
-                $currentBalance = $initialBalance; // This will track balance changes within the batch for accurate reporting
+            //     $initialBalance = $user->wallet->balanceFloat; // Get initial balance before processing any transactions in this batch
+            //     $currentBalance = $initialBalance; // This will track balance changes within the batch for accurate reporting
 
-                foreach ($batchRequest['transactions'] ?? [] as $tx) {
-                    $transactionId = $tx['id'] ?? null;
-                    $action = strtoupper($tx['action'] ?? '');
-                    $amount = floatval($tx['amount'] ?? 0); // Ensure amount is float for calculations
-                    $wagerCode = $tx['wager_code'] ?? $tx['round_id'] ?? null;
-                    $gameCode = $tx['game_code'] ?? null;
+            //     foreach ($batchRequest['transactions'] ?? [] as $tx) {
+            //         $transactionId = $tx['id'] ?? null;
+            //         $action = strtoupper($tx['action'] ?? '');
+            //         $amount = floatval($tx['amount'] ?? 0); // Ensure amount is float for calculations
+            //         $wagerCode = $tx['wager_code'] ?? $tx['round_id'] ?? null;
+            //         $gameCode = $tx['game_code'] ?? null;
 
-                    // Determine game_type, prioritizing batchRequest, then DB lookup
-                    $transactionGameType = $batchRequest['game_type'] ?? null;
-                    if (empty($transactionGameType) && $gameCode) {
-                        $transactionGameType = GameList::where('game_code', $gameCode)->value('game_type');
-                    }
+            //         // Determine game_type, prioritizing batchRequest, then DB lookup
+            //         $transactionGameType = $batchRequest['game_type'] ?? null;
+            //         if (empty($transactionGameType) && $gameCode) {
+            //             $transactionGameType = GameList::where('game_code', $gameCode)->value('game_type');
+            //         }
 
-                    if (empty($transactionGameType)) {
-                        Log::warning('Missing game_type from batch_request and fallback lookup for withdraw', [
-                            'member_account' => $memberAccount,
-                            'product_code' => $productCode,
-                            'game_code' => $gameCode,
-                            'transaction_id' => $transactionId,
-                        ]);
-                        $responseData[] = $this->buildErrorResponse(
-                            $memberAccount,
-                            $productCode,
-                            $currentBalance,
-                            SeamlessWalletCode::InternalServerError,
-                            'Missing game_type',
-                            $request->currency
-                        );
-                        $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Missing game_type', $currentBalance, $currentBalance);
+            //         if (empty($transactionGameType)) {
+            //             Log::warning('Missing game_type from batch_request and fallback lookup for withdraw', [
+            //                 'member_account' => $memberAccount,
+            //                 'product_code' => $productCode,
+            //                 'game_code' => $gameCode,
+            //                 'transaction_id' => $transactionId,
+            //             ]);
+            //             $responseData[] = $this->buildErrorResponse(
+            //                 $memberAccount,
+            //                 $productCode,
+            //                 $currentBalance,
+            //                 SeamlessWalletCode::InternalServerError,
+            //                 'Missing game_type',
+            //                 $request->currency
+            //             );
+            //             $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Missing game_type', $currentBalance, $currentBalance);
 
-                        continue;
-                    }
+            //             continue;
+            //         }
 
-                    // Check for crucial missing data for an individual transaction
-                    if (! $transactionId || empty($action)) { // Amount can be 0 or negative for certain actions
-                        Log::warning('Missing crucial data in transaction for withdraw/bet', ['tx' => $tx]);
-                        $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Missing transaction data (id or action)', $currentBalance, $currentBalance);
-                        $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InternalServerError, 'Missing transaction data (id or action)', $request->currency);
+            //         // Check for crucial missing data for an individual transaction
+            //         if (! $transactionId || empty($action)) { // Amount can be 0 or negative for certain actions
+            //             Log::warning('Missing crucial data in transaction for withdraw/bet', ['tx' => $tx]);
+            //             $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Missing transaction data (id or action)', $currentBalance, $currentBalance);
+            //             $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InternalServerError, 'Missing transaction data (id or action)', $request->currency);
 
-                        continue;
-                    }
+            //             continue;
+            //         }
 
-                    // Convert amount based on currency for internal processing (always positive for withdrawal amount)
-                    $convertedAmount = abs($this->toDecimalPlaces($amount * $this->getCurrencyValue($request->currency)));
+            //         // Convert amount based on currency for internal processing (always positive for withdrawal amount)
+            //         $convertedAmount = abs($this->toDecimalPlaces($amount * $this->getCurrencyValue($request->currency)));
 
-                    // Meta data for wallet transaction and logging
-                    $meta = [
-                        'seamless_transaction_id' => $transactionId,
-                        'action_type' => $action,
-                        'product_code' => $productCode,
-                        'wager_code' => $wagerCode,
-                        'round_id' => $tx['round_id'] ?? null,
-                        'game_code' => $gameCode,
-                        'game_type' => $transactionGameType, // Ensure game_type is passed to meta
-                        'channel_code' => $tx['channel_code'] ?? null,
-                        'raw_payload' => $tx,
-                    ];
+            //         // Meta data for wallet transaction and logging
+            //         $meta = [
+            //             'seamless_transaction_id' => $transactionId,
+            //             'action_type' => $action,
+            //             'product_code' => $productCode,
+            //             'wager_code' => $wagerCode,
+            //             'round_id' => $tx['round_id'] ?? null,
+            //             'game_code' => $gameCode,
+            //             'game_type' => $transactionGameType, // Ensure game_type is passed to meta
+            //             'channel_code' => $tx['channel_code'] ?? null,
+            //             'raw_payload' => $tx,
+            //         ];
 
-                    // Check for duplicate transactions (idempotency)
-                    $isDuplicate = PlaceBet::where('transaction_id', $transactionId)->exists() ||
-                                   WalletTransaction::whereJsonContains('meta->seamless_transaction_id', $transactionId)->exists();
+            //         // Check for duplicate transactions (idempotency)
+            //         $isDuplicate = PlaceBet::where('transaction_id', $transactionId)->exists() ||
+            //                        WalletTransaction::whereJsonContains('meta->seamless_transaction_id', $transactionId)->exists();
 
-                    if ($isDuplicate) {
-                        Log::warning('Duplicate transaction ID detected for withdraw/bet', ['tx_id' => $transactionId, 'member_account' => $memberAccount, 'action' => $action]);
-                        $this->logPlaceBet($batchRequest, $request, $tx, 'duplicate', $request->request_time, 'Duplicate transaction', $currentBalance, $currentBalance);
-                        $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::DuplicateTransaction, 'Duplicate transaction', $request->currency);
+            //         if ($isDuplicate) {
+            //             Log::warning('Duplicate transaction ID detected for withdraw/bet', ['tx_id' => $transactionId, 'member_account' => $memberAccount, 'action' => $action]);
+            //             $this->logPlaceBet($batchRequest, $request, $tx, 'duplicate', $request->request_time, 'Duplicate transaction', $currentBalance, $currentBalance);
+            //             $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::DuplicateTransaction, 'Duplicate transaction', $request->currency);
 
-                        continue;
-                    }
+            //             continue;
+            //         }
 
-                    // Ensure action is a valid debit action for this controller
-                    if (! in_array($action, $this->debitActions)) {
-                        Log::warning('Unsupported action type received on withdraw endpoint', ['transaction_id' => $transactionId, 'action' => $action]);
-                        $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Unsupported action type for this endpoint: '.$action, $currentBalance, $currentBalance);
-                        $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InternalServerError, 'Unsupported action type: '.$action, $request->currency);
+            //         // Ensure action is a valid debit action for this controller
+            //         if (! in_array($action, $this->debitActions)) {
+            //             Log::warning('Unsupported action type received on withdraw endpoint', ['transaction_id' => $transactionId, 'action' => $action]);
+            //             $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Unsupported action type for this endpoint: '.$action, $currentBalance, $currentBalance);
+            //             $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InternalServerError, 'Unsupported action type: '.$action, $request->currency);
 
-                        continue;
-                    }
+            //             continue;
+            //         }
 
-                    // Transaction-specific logic
-                    DB::beginTransaction();
-                    try {
-                        // Re-fetch user with wallet lock for concurrency safety
-                        $user->refresh(); // Refresh user model to get latest balance
-                        $userWithWallet = User::with(['wallet' => function ($query) {
-                            $query->lockForUpdate();
-                        }])->find($user->id);
+            //         // Transaction-specific logic
+            //         DB::beginTransaction();
+            //         try {
+            //             // Re-fetch user with wallet lock for concurrency safety
+            //             $user->refresh(); // Refresh user model to get latest balance
+            //             $userWithWallet = User::with(['wallet' => function ($query) {
+            //                 $query->lockForUpdate();
+            //             }])->find($user->id);
 
-                        if (! $userWithWallet || ! $userWithWallet->wallet) {
-                            throw new Exception('User or wallet not found during transaction locking.');
-                        }
+            //             if (! $userWithWallet || ! $userWithWallet->wallet) {
+            //                 throw new Exception('User or wallet not found during transaction locking.');
+            //             }
 
-                        $beforeTransactionBalance = $userWithWallet->wallet->balanceFloat;
+            //             $beforeTransactionBalance = $userWithWallet->wallet->balanceFloat;
 
-                        // Log balance and amount before insufficient balance check
-                        Log::info('WithdrawController: Checking balance for insufficient funds', [
-                            'member_account' => $memberAccount,
-                            'balance' => $userWithWallet->balanceFloat,
-                            'convertedAmount' => $convertedAmount,
-                        ]);
+            //             // Log balance and amount before insufficient balance check
+            //             Log::info('WithdrawController: Checking balance for insufficient funds', [
+            //                 'member_account' => $memberAccount,
+            //                 'balance' => $userWithWallet->balanceFloat,
+            //                 'convertedAmount' => $convertedAmount,
+            //             ]);
 
-                        // // Check for insufficient balance BEFORE withdrawal
-                        // if ($userWithWallet->balanceFloat < $convertedAmount) {
-                        //     Log::warning('WithdrawController: Insufficient balance detected', [
-                        //         'member_account' => $memberAccount,
-                        //         'balance' => $userWithWallet->balanceFloat,
-                        //         'convertedAmount' => $convertedAmount,
-                        //     ]);
-                        //     $responseData[] = [
-                        //         'member_account' => $memberAccount,
-                        //         'product_code' => (int) $productCode,
-                        //         'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                        //         'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                        //         'code' => SeamlessWalletCode::InsufficientBalance->value,
-                        //         'message' => 'Insufficient balance',
-                        //     ];
-                        //     DB::commit();
-                        //     continue;
-                        // }
+            //             // // Check for insufficient balance BEFORE withdrawal
+            //             // if ($userWithWallet->balanceFloat < $convertedAmount) {
+            //             //     Log::warning('WithdrawController: Insufficient balance detected', [
+            //             //         'member_account' => $memberAccount,
+            //             //         'balance' => $userWithWallet->balanceFloat,
+            //             //         'convertedAmount' => $convertedAmount,
+            //             //     ]);
+            //             //     $responseData[] = [
+            //             //         'member_account' => $memberAccount,
+            //             //         'product_code' => (int) $productCode,
+            //             //         'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+            //             //         'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+            //             //         'code' => SeamlessWalletCode::InsufficientBalance->value,
+            //             //         'message' => 'Insufficient balance',
+            //             //     ];
+            //             //     DB::commit();
+            //             //     continue;
+            //             // }
 
-                        // Handle actions that represent debits
-                        if ($action === 'BET' || $action === 'ADJUST_DEBIT' || $action === 'WITHDRAW' || $action === 'FEE') {
-                            Log::info('WithdrawController: Processing debit action', [
-                                'member_account' => $memberAccount,
-                                'action' => $action,
-                                'amount' => $amount,
-                                'convertedAmount' => $convertedAmount,
-                            ]);
-                            if ($convertedAmount <= 0) {
-                                Log::info('WithdrawController: Processing debit action 2', [
-                                    'member_account' => $memberAccount,
-                                    'action' => $action,
-                                    'amount' => $amount,
-                                    'convertedAmount' => $convertedAmount,
-                                ]);
-                                Log::warning('Zero or negative amount for debit action, skipping wallet withdraw but logging.', ['transaction_id' => $transactionId, 'action' => $action, 'amount' => $amount]);
-                                $transactionMessage = 'Debit action with zero/negative amount.';
-                                $this->logPlaceBet($batchRequest, $request, $tx, 'info', $request->request_time, $transactionMessage, $beforeTransactionBalance, $beforeTransactionBalance);
-                                DB::commit();
-                                $responseData[] = [
-                                    'member_account' => $memberAccount,
-                                    'product_code' => (int) $productCode,
-                                    'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                                    'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency), // Balance doesn't change
-                                    'code' => SeamlessWalletCode::Success->value, // Still success for processing the request
-                                    'message' => 'Processed with zero amount, no balance change.',
-                                ];
+            //             // Handle actions that represent debits
+            //             if ($action === 'BET' || $action === 'ADJUST_DEBIT' || $action === 'WITHDRAW' || $action === 'FEE') {
+            //                 Log::info('WithdrawController: Processing debit action', [
+            //                     'member_account' => $memberAccount,
+            //                     'action' => $action,
+            //                     'amount' => $amount,
+            //                     'convertedAmount' => $convertedAmount,
+            //                 ]);
+            //                 if ($convertedAmount <= 0) {
+            //                     Log::info('WithdrawController: Processing debit action 2', [
+            //                         'member_account' => $memberAccount,
+            //                         'action' => $action,
+            //                         'amount' => $amount,
+            //                         'convertedAmount' => $convertedAmount,
+            //                     ]);
+            //                     Log::warning('Zero or negative amount for debit action, skipping wallet withdraw but logging.', ['transaction_id' => $transactionId, 'action' => $action, 'amount' => $amount]);
+            //                     $transactionMessage = 'Debit action with zero/negative amount.';
+            //                     $this->logPlaceBet($batchRequest, $request, $tx, 'info', $request->request_time, $transactionMessage, $beforeTransactionBalance, $beforeTransactionBalance);
+            //                     DB::commit();
+            //                     $responseData[] = [
+            //                         'member_account' => $memberAccount,
+            //                         'product_code' => (int) $productCode,
+            //                         'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+            //                         'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency), // Balance doesn't change
+            //                         'code' => SeamlessWalletCode::Success->value, // Still success for processing the request
+            //                         'message' => 'Processed with zero amount, no balance change.',
+            //                     ];
 
-                                continue;
-                            }
+            //                     continue;
+            //                 }
 
-                             // Check for insufficient balance BEFORE withdrawal
-                        if ($userWithWallet->balanceFloat < $convertedAmount || $tx['action'] === 'WITHDRAW') {
-                            Log::warning('WithdrawController: Insufficient balance detected', [
-                                'member_account' => $memberAccount,
-                                'balance' => $userWithWallet->balanceFloat,
-                                'convertedAmount' => $convertedAmount,
-                            ]);
-                            $responseData[] = [
-                                'member_account' => $memberAccount,
-                                'product_code' => (int) $productCode,
-                                'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                                'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
-                                'code' => SeamlessWalletCode::InsufficientBalance->value,
-                                'message' => 'Insufficient Balance',
-                            ];
-                            DB::commit();
-                            continue;
-                        }
+            //                  // Check for insufficient balance BEFORE withdrawal
+            //             if ($userWithWallet->balanceFloat < $convertedAmount || $tx['action'] === 'WITHDRAW') {
+            //                 Log::warning('WithdrawController: Insufficient balance detected', [
+            //                     'member_account' => $memberAccount,
+            //                     'balance' => $userWithWallet->balanceFloat,
+            //                     'convertedAmount' => $convertedAmount,
+            //                 ]);
+            //                 $responseData[] = [
+            //                     'member_account' => $memberAccount,
+            //                     'product_code' => (int) $productCode,
+            //                     'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+            //                     'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+            //                     'code' => SeamlessWalletCode::InsufficientBalance->value,
+            //                     'message' => 'Insufficient Balance',
+            //                 ];
+            //                 DB::commit();
+            //                 continue;
+            //             }
 
-                            // Perform the withdrawal
-                            $this->walletService->withdraw($userWithWallet, $convertedAmount, TransactionName::Withdraw, $meta);
-                            Log::info('WithdrawController: Processing debit action 3', [
-                                'member_account' => $memberAccount,
-                                'action' => $action,
-                                'amount' => $amount,
-                                'convertedAmount' => $convertedAmount,
-                            ]);
-                            $newBalance = $userWithWallet->wallet->balanceFloat;
+            //                 // Perform the withdrawal
+            //                 $this->walletService->withdraw($userWithWallet, $convertedAmount, TransactionName::Withdraw, $meta);
+            //                 Log::info('WithdrawController: Processing debit action 3', [
+            //                     'member_account' => $memberAccount,
+            //                     'action' => $action,
+            //                     'amount' => $amount,
+            //                     'convertedAmount' => $convertedAmount,
+            //                 ]);
+            //                 $newBalance = $userWithWallet->wallet->balanceFloat;
 
-                            $transactionCode = SeamlessWalletCode::Success->value;
-                            //$transactionCode = SeamlessWalletCode::InsufficientBalance->value;
+            //                 $transactionCode = SeamlessWalletCode::Success->value;
+            //                 //$transactionCode = SeamlessWalletCode::InsufficientBalance->value;
 
-                            $transactionMessage = 'Transaction processed successfully';
-                            //$transactionMessage = 'Insufficient balance';
-                            $this->logPlaceBet($batchRequest, $request, $tx, 'completed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $newBalance);
+            //                 $transactionMessage = 'Transaction processed successfully';
+            //                 //$transactionMessage = 'Insufficient balance';
+            //                 $this->logPlaceBet($batchRequest, $request, $tx, 'completed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $newBalance);
 
-                        } else {
-                            // This block should ideally not be reached if $this->debitActions is comprehensive
-                            // and the check before DB::beginTransaction() is effective.
-                            throw new Exception('Unhandled debit action type: '.$action);
-                        }
+            //             } else {
+            //                 // This block should ideally not be reached if $this->debitActions is comprehensive
+            //                 // and the check before DB::beginTransaction() is effective.
+            //                 throw new Exception('Unhandled debit action type: '.$action);
+            //             }
 
-                        DB::commit();
-                        $currentBalance = $newBalance; // Update current balance for next transaction in the batch
+            //             DB::commit();
+            //             $currentBalance = $newBalance; // Update current balance for next transaction in the batch
 
-                    } catch (InsufficientFunds $e) {
-                        DB::rollBack();
-                        $transactionCode = SeamlessWalletCode::InsufficientBalance->value;
-                        $transactionMessage = 'Insufficient balance: '.$e->getMessage();
-                        Log::warning('Insufficient Funds for withdraw/bet', ['transaction_id' => $transactionId, 'member_account' => $memberAccount, 'amount' => $amount, 'error' => $e->getMessage()]);
-                        $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance ?? $user->balanceFloat, $currentBalance);
+            //         } catch (InsufficientFunds $e) {
+            //             DB::rollBack();
+            //             $transactionCode = SeamlessWalletCode::InsufficientBalance->value;
+            //             $transactionMessage = 'Insufficient balance: '.$e->getMessage();
+            //             Log::warning('Insufficient Funds for withdraw/bet', ['transaction_id' => $transactionId, 'member_account' => $memberAccount, 'amount' => $amount, 'error' => $e->getMessage()]);
+            //             $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance ?? $user->balanceFloat, $currentBalance);
 
-                    } catch (Exception $e) { // Catch all other exceptions
-                        DB::rollBack();
-                        $transactionCode = SeamlessWalletCode::InternalServerError->value;
-                        $transactionMessage = 'Failed to process transaction: '.$e->getMessage();
-                        Log::error('Error processing withdraw/bet transaction', ['transaction_id' => $transactionId, 'action' => $action, 'error' => $e->getMessage(), 'trace' => $e->getTraceAsString()]);
-                        $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance ?? $user->balanceFloat, $currentBalance);
-                    }
+            //         } catch (Exception $e) { // Catch all other exceptions
+            //             DB::rollBack();
+            //             $transactionCode = SeamlessWalletCode::InternalServerError->value;
+            //             $transactionMessage = 'Failed to process transaction: '.$e->getMessage();
+            //             Log::error('Error processing withdraw/bet transaction', ['transaction_id' => $transactionId, 'action' => $action, 'error' => $e->getMessage(), 'trace' => $e->getTraceAsString()]);
+            //             $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance ?? $user->balanceFloat, $currentBalance);
+            //         }
 
-                    // Add the response for the current transaction
-                    $responseData[] = [
-                        'member_account' => $memberAccount,
-                        'product_code' => (int) $productCode,
-                        'before_balance' => $this->formatBalance($beforeTransactionBalance ?? $user->balanceFloat, $request->currency),
-                        'balance' => $this->formatBalance($currentBalance, $request->currency),
-                        'code' => $transactionCode,
-                        'message' => $transactionMessage,
-                    ];
-                }
-            } catch (\Throwable $e) {
-                // Catch any exception that might occur outside the inner transaction loop (e.g., user lookup failures)
-                Log::error('Batch processing exception for member in WithdrawController', ['member_account' => $memberAccount, 'error' => $e->getMessage(), 'trace' => $e->getTraceAsString()]);
-                // This error applies to the entire batch, so we add a generic error for it
-                $responseData[] = $this->buildErrorResponse(
-                    $memberAccount,
-                    $productCode,
-                    0.0, // Cannot determine balance if user/wallet not found
-                    SeamlessWalletCode::InternalServerError,
-                    'An unexpected error occurred during batch processing: '.$e->getMessage(),
-                    $request->currency
-                );
-            }
+            //         // Add the response for the current transaction
+            //         $responseData[] = [
+            //             'member_account' => $memberAccount,
+            //             'product_code' => (int) $productCode,
+            //             'before_balance' => $this->formatBalance($beforeTransactionBalance ?? $user->balanceFloat, $request->currency),
+            //             'balance' => $this->formatBalance($currentBalance, $request->currency),
+            //             'code' => $transactionCode,
+            //             'message' => $transactionMessage,
+            //         ];
+            //     }
+            // } catch (\Throwable $e) {
+            //     // Catch any exception that might occur outside the inner transaction loop (e.g., user lookup failures)
+            //     Log::error('Batch processing exception for member in WithdrawController', ['member_account' => $memberAccount, 'error' => $e->getMessage(), 'trace' => $e->getTraceAsString()]);
+            //     // This error applies to the entire batch, so we add a generic error for it
+            //     $responseData[] = $this->buildErrorResponse(
+            //         $memberAccount,
+            //         $productCode,
+            //         0.0, // Cannot determine balance if user/wallet not found
+            //         SeamlessWalletCode::InternalServerError,
+            //         'An unexpected error occurred during batch processing: '.$e->getMessage(),
+            //         $request->currency
+            //     );
+            // }
+
+            DB::beginTransaction();
+try {
+    $user->refresh();
+    $userWithWallet = User::with(['wallet' => function ($query) {
+        $query->lockForUpdate();
+    }])->find($user->id);
+
+    if (!$userWithWallet || !$userWithWallet->wallet) {
+        throw new Exception('User or wallet not found during transaction locking.');
+    }
+
+    $beforeTransactionBalance = $userWithWallet->wallet->balanceFloat;
+    $convertedAmount = abs($this->toDecimalPlaces($amount * $this->getCurrencyValue($request->currency)));
+
+    Log::info('WithdrawController: Checking balance for insufficient funds (pre-deduction)', [
+        'member_account' => $memberAccount,
+        'current_balance' => $userWithWallet->balanceFloat,
+        'amount_to_deduct' => $convertedAmount,
+        'action' => $action
+    ]);
+
+    // Calculate projected balance after this transaction
+    $projectedBalance = $beforeTransactionBalance - $convertedAmount;
+
+    // Check for insufficient funds based on *projected* balance falling below *zero*
+    // OR falling below your defined minimum allowed balance (e.g., 1000)
+    // If your Bavix\Wallet setup naturally throws InsufficientFunds when balance goes below zero,
+    // you only need to add the *custom* minimum balance check here.
+
+    $minimumAllowedBalance = 1000; // Define your minimum balance threshold here
+
+    if ($projectedBalance < 0 || $projectedBalance < $minimumAllowedBalance) {
+        Log::warning('WithdrawController: Insufficient balance detected (projected balance too low)', [
+            'member_account' => $memberAccount,
+            'current_balance' => $beforeTransactionBalance,
+            'amount_to_deduct' => $convertedAmount,
+            'projected_balance' => $projectedBalance,
+            'minimum_allowed_balance' => $minimumAllowedBalance
+        ]);
+        // Manually set response for insufficient balance
+        $responseData[] = [
+            'member_account' => $memberAccount,
+            'product_code' => (int) $productCode,
+            'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
+            'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency), // Balance doesn't change
+            'code' => SeamlessWalletCode::InsufficientBalance->value,
+            'message' => 'Insufficient Balance',
+        ];
+        DB::commit(); // Commit the transaction to release locks, but no wallet change
+        continue; // Skip to next transaction in batch
+    }
+
+    // If the action is a debit and passed the balance check, proceed with actual withdrawal
+    if (in_array($action, $this->debitActions)) {
+        Log::info('WithdrawController: Processing debit action (passed balance check)', [
+            'member_account' => $memberAccount,
+            'action' => $action,
+            'amount' => $amount,
+            'convertedAmount' => $convertedAmount,
+        ]);
+
+        // Perform the withdrawal through wallet service (this should throw InsufficientFunds if Bavix Wallet's internal check fails)
+        $this->walletService->withdraw($userWithWallet, $convertedAmount, TransactionName::Withdraw, $meta);
+        $newBalance = $userWithWallet->wallet->balanceFloat;
+
+        $transactionCode = SeamlessWalletCode::Success->value;
+        $transactionMessage = 'Transaction processed successfully';
+        $this->logPlaceBet($batchRequest, $request, $tx, 'completed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $newBalance);
+
+    } else {
+        // This block should ideally not be reached if $this->debitActions is comprehensive
+        throw new Exception('Unhandled debit action type: '.$action);
+    }
+
+    DB::commit();
+    $currentBalance = $newBalance;
+
+} catch (InsufficientFunds $e) {
+    DB::rollBack(); // Rollback due to wallet exception
+    $transactionCode = SeamlessWalletCode::InsufficientBalance->value;
+    $transactionMessage = 'Insufficient balance: '.$e->getMessage();
+    Log::warning('Insufficient Funds (Bavix Wallet Exception) for withdraw/bet', ['transaction_id' => $transactionId, 'member_account' => $memberAccount, 'amount' => $amount, 'error' => $e->getMessage()]);
+    $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance ?? $user->balanceFloat, $currentBalance);
+
+} catch (Exception $e) {
+    DB::rollBack();
+    $transactionCode = SeamlessWalletCode::InternalServerError->value;
+    $transactionMessage = 'Failed to process transaction: '.$e->getMessage();
+    Log::error('Error processing withdraw/bet transaction', ['transaction_id' => $transactionId, 'action' => $action, 'error' => $e->getMessage(), 'trace' => $e->getTraceAsString()]);
+    $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance ?? $user->balanceFloat, $currentBalance);
+}
+
+// Add the response for the current transaction (if not already added by a 'continue' statement)
+// This is redundant if you've already added it inside the if ($projectedBalance < 0 ... ) block.
+// Ensure you only add one response per transaction.
+// If you explicitly `continue` after setting $responseData[], then the below block will not be reached for that specific transaction.
+if (!isset($responseData[count($responseData) -1]['transaction_id']) || $responseData[count($responseData) -1]['transaction_id'] !== $transactionId) {
+    $responseData[] = [
+        'member_account' => $memberAccount,
+        'product_code' => (int) $productCode,
+        'before_balance' => $this->formatBalance($beforeTransactionBalance ?? $user->balanceFloat, $request->currency),
+        'balance' => $this->formatBalance($currentBalance, $request->currency),
+        'code' => $transactionCode,
+        'message' => $transactionMessage,
+    ];
+}
         }
 
         return $responseData;

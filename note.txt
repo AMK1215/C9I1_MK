@@ -353,3 +353,7 @@ public function gameLists($type, $provider, Request $request)
 
         return $this->success(GameListResource::collection($gameLists));
     }
+
+
+"{\"amount\":\"15\",\"provider_tx_id\":\"9668720aa4d3319c7398b700f5\",\"provider_username\":
+\"ce89ccb6f0e64071f8e5\",\"roundDetails\":\"spin\",\"username\":\"A3H1_efnf_PLAYER0101_403\"}"
