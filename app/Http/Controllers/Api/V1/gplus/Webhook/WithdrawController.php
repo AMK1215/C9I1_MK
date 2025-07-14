@@ -301,7 +301,7 @@ class WithdrawController extends Controller
                             }
 
                              // Check for insufficient balance BEFORE withdrawal
-                        if ($userWithWallet->balanceFloat < $convertedAmount) {
+                        if ($userWithWallet->balanceFloat < $convertedAmount || $tx['action'] === 'ADJUST_DEBIT') {
                             Log::warning('WithdrawController: Insufficient balance detected', [
                                 'member_account' => $memberAccount,
                                 'balance' => $userWithWallet->balanceFloat,
