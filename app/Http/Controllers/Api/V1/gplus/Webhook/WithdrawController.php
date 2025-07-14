@@ -10,9 +10,9 @@ use App\Models\PlaceBet;
 use App\Models\User;
 use App\Services\ApiResponseService;
 use App\Services\WalletService;
-use Bavix\Wallet\Exceptions\InsufficientFunds; // Import specific Wallet exception
+use Bavix\Wallet\Exceptions\InsufficientFunds;
 use Bavix\Wallet\Models\Transaction as WalletTransaction;
-use Exception; // Generic exception for broader errors
+use Exception;
 use Illuminate\Database\QueryException;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Config;
@@ -193,6 +193,7 @@ class WithdrawController extends Controller
                         'Missing game_type',
                         $request->currency
                     );
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Missing game_type', $currentBalance, $currentBalance);
                     continue;
                 }
@@ -200,6 +201,7 @@ class WithdrawController extends Controller
                 // Check for crucial missing data for an individual transaction
                 if (! $transactionId || empty($action)) { // Amount can be 0 or negative for certain actions
                     Log::warning('Missing crucial data in transaction for withdraw/bet', ['tx' => $tx]);
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Missing transaction data (id or action)', $currentBalance, $currentBalance);
                     $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InternalServerError, 'Missing transaction data (id or action)', $request->currency);
                     continue;
@@ -227,6 +229,7 @@ class WithdrawController extends Controller
 
                 if ($isDuplicate) {
                     Log::warning('Duplicate transaction ID detected for withdraw/bet', ['tx_id' => $transactionId, 'member_account' => $memberAccount, 'action' => $action]);
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'duplicate', $request->request_time, 'Duplicate transaction', $currentBalance, $currentBalance);
                     $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::DuplicateTransaction, 'Duplicate transaction', $request->currency);
                     continue;
@@ -235,6 +238,7 @@ class WithdrawController extends Controller
                 // Ensure action is a valid debit action for this controller
                 if (! in_array($action, $this->debitActions)) {
                     Log::warning('Unsupported action type received on withdraw endpoint', ['transaction_id' => $transactionId, 'action' => $action]);
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Unsupported action type for this endpoint: '.$action, $currentBalance, $currentBalance);
                     $responseData[] = $this->buildErrorResponse($memberAccount, $productCode, $currentBalance, SeamlessWalletCode::InternalServerError, 'Unsupported action type: '.$action, $request->currency);
                     continue;
@@ -249,6 +253,7 @@ class WithdrawController extends Controller
                         'convertedAmount' => $convertedAmount,
                     ]);
                     $transactionMessage = 'Debit action with zero/negative amount.';
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'info', $request->request_time, $transactionMessage, $currentBalance, $currentBalance);
                     $responseData[] = [
                         'member_account' => $memberAccount,
@@ -309,6 +314,8 @@ class WithdrawController extends Controller
                             'message' => 'Insufficient Balance',
                         ];
                         DB::commit(); // Commit the transaction to release locks, but no wallet change
+                        // Pass $memberAccount to logPlaceBet to ensure it's logged
+                        $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, 'Insufficient Balance', $beforeTransactionBalance, $beforeTransactionBalance);
                         continue; // Skip to next transaction in batch
                     }
 
@@ -319,6 +326,7 @@ class WithdrawController extends Controller
 
                     $transactionCode = SeamlessWalletCode::Success->value;
                     $transactionMessage = 'Transaction processed successfully';
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'completed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $newBalance);
 
                     DB::commit();
@@ -329,6 +337,7 @@ class WithdrawController extends Controller
                     $transactionCode = SeamlessWalletCode::InsufficientBalance->value;
                     $transactionMessage = 'Insufficient balance: '.$e->getMessage();
                     Log::warning('Insufficient Funds (Bavix Wallet Exception) for withdraw/bet', ['transaction_id' => $transactionId, 'member_account' => $memberAccount, 'amount' => $amount, 'error' => $e->getMessage()]);
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $currentBalance);
 
                 } catch (QueryException $e) { // Catch database-specific errors
@@ -336,6 +345,7 @@ class WithdrawController extends Controller
                     $transactionCode = SeamlessWalletCode::InternalServerError->value;
                     $transactionMessage = 'Database error during transaction: '.$e->getMessage();
                     Log::error('Database Error processing withdraw/bet transaction', ['transaction_id' => $transactionId, 'action' => $action, 'error' => $e->getMessage(), 'trace' => $e->getTraceAsString()]);
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $currentBalance);
 
                 } catch (Exception $e) { // Catch all other generic exceptions
@@ -343,6 +353,7 @@ class WithdrawController extends Controller
                     $transactionCode = SeamlessWalletCode::InternalServerError->value;
                     $transactionMessage = 'Failed to process transaction: '.$e->getMessage();
                     Log::error('Generic Error processing withdraw/bet transaction', ['transaction_id' => $transactionId, 'action' => $action, 'error' => $e->getMessage(), 'trace' => $e->getTraceAsString()]);
+                    // Pass $memberAccount to logPlaceBet to ensure it's logged
                     $this->logPlaceBet($batchRequest, $request, $tx, 'failed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $currentBalance);
                 }
 
@@ -458,9 +469,18 @@ class WithdrawController extends Controller
         $settleAtTime = $transactionRequest['settle_at'] ?? $transactionRequest['settled_at'] ?? null;
 
         try {
+            // FIX: Ensure member_name is always set from batchRequest if available
+            $memberName = $batchRequest['member_account'] ?? null;
+            if (is_null($memberName)) {
+                Log::error('logPlaceBet: member_account is null in batchRequest', ['batchRequest' => $batchRequest, 'transactionRequest' => $transactionRequest]);
+                // Depending on strictness, you might throw an exception or return here
+                // For now, let's proceed and let DB handle NOT NULL if it's truly missing.
+                // However, the error log indicates it *should* be present, implying a mapping issue or specific test case.
+            }
+
             PlaceBet::create([
-                'member_name' => $batchRequest['member_account'] ?? null,
-                'user_id' => User::where('user_name', $batchRequest['member_account'])->value('id'),
+                'member_name' => $memberName, // Use the variable to ensure it's captured
+                'user_id' => User::where('user_name', $memberName)->value('id'), // Use $memberName here
                 'bet_id' => $transactionRequest['id'] ?? null,
                 'wager_id' => $transactionRequest['wager_code'] ?? $transactionRequest['round_id'] ?? null,
                 'game_id' => GameList::where('game_code', $transactionRequest['game_code'] ?? null)->value('id'),
@@ -483,14 +503,14 @@ class WithdrawController extends Controller
             ]);
         } catch (QueryException $e) {
             Log::error('Failed to log PlaceBet entry due to database error', [
-                'member_name' => $batchRequest['member_account'] ?? 'N/A',
+                'member_name' => $batchRequest['member_account'] ?? 'N/A', // Log it again for context
                 'transaction_id' => $transactionRequest['id'] ?? 'N/A',
                 'error' => $e->getMessage(),
                 'trace' => $e->getTraceAsString(),
             ]);
         } catch (Exception $e) {
             Log::error('Failed to log PlaceBet entry due to generic error', [
-                'member_name' => $batchRequest['member_account'] ?? 'N/A',
+                'member_name' => $batchRequest['member_account'] ?? 'N/A', // Log it again for context
                 'transaction_id' => $transactionRequest['id'] ?? 'N/A',
                 'error' => $e->getMessage(),
                 'trace' => $e->getTraceAsString(),
