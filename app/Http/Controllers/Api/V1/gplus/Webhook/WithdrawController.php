@@ -313,7 +313,7 @@ class WithdrawController extends Controller
                                 'before_balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
                                 'balance' => $this->formatBalance($beforeTransactionBalance, $request->currency),
                                 'code' => SeamlessWalletCode::InsufficientBalance->value,
-                                'message' => 'Insufficient balance',
+                                'message' => 'Insufficient Balance',
                             ];
                             DB::commit();
                             continue;
@@ -329,11 +329,11 @@ class WithdrawController extends Controller
                             ]);
                             $newBalance = $userWithWallet->wallet->balanceFloat;
 
-                            //$transactionCode = SeamlessWalletCode::Success->value;
-                            $transactionCode = SeamlessWalletCode::InsufficientBalance->value;
+                            $transactionCode = SeamlessWalletCode::Success->value;
+                            //$transactionCode = SeamlessWalletCode::InsufficientBalance->value;
 
-                            //$transactionMessage = 'Transaction processed successfully';
-                            $transactionMessage = 'Insufficient balance';
+                            $transactionMessage = 'Transaction processed successfully';
+                            //$transactionMessage = 'Insufficient balance';
                             $this->logPlaceBet($batchRequest, $request, $tx, 'completed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $newBalance);
 
                         } else {
