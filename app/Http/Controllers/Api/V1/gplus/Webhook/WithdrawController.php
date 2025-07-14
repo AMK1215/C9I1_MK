@@ -329,7 +329,9 @@ class WithdrawController extends Controller
                             ]);
                             $newBalance = $userWithWallet->wallet->balanceFloat;
 
-                            $transactionCode = SeamlessWalletCode::Success->value;
+                            //$transactionCode = SeamlessWalletCode::Success->value;
+                            $transactionCode = SeamlessWalletCode::InsufficientBalance->value;
+
                             $transactionMessage = 'Transaction processed successfully';
                             $this->logPlaceBet($batchRequest, $request, $tx, 'completed', $request->request_time, $transactionMessage, $beforeTransactionBalance, $newBalance);
 
