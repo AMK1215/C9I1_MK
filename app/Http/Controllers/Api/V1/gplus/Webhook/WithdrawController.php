@@ -467,54 +467,122 @@ class WithdrawController extends Controller
         // Convert milliseconds to seconds if necessary for timestamp columns
         $requestTimeInSeconds = $requestTime ? floor($requestTime / 1000) : null;
         $settleAtTime = $transactionRequest['settle_at'] ?? $transactionRequest['settled_at'] ?? null;
+        $settleAtInSeconds = $settleAtTime ? floor($settleAtTime / 1000) : null;
+        $createdAtProviderTime = $transactionRequest['created_at'] ?? null;
+        $createdAtProviderInSeconds = $createdAtProviderTime ? floor($createdAtProviderTime / 1000) : null;
+
+        $providerName = GameList::where('product_code', $batchRequest['product_code'])->value('provider');
+        $gameName = GameList::where('game_code', $transactionRequest['game_code'])->value('game_name');
+        $playerId = User::where('user_name', $batchRequest['member_account'])->value('id');
+        $playerAgentId = User::where('user_name', $batchRequest['member_account'])->value('agent_id');
 
         try {
-            // FIX: Ensure member_name is always set from batchRequest if available
-            $memberName = $batchRequest['member_account'] ?? null;
-            if (is_null($memberName)) {
-                Log::error('logPlaceBet: member_account is null in batchRequest', ['batchRequest' => $batchRequest, 'transactionRequest' => $transactionRequest]);
-                // Depending on strictness, you might throw an exception or return here
-                // For now, let's proceed and let DB handle NOT NULL if it's truly missing.
-                // However, the error log indicates it *should* be present, implying a mapping issue or specific test case.
-            }
-
             PlaceBet::create([
-                'member_name' => $memberName, // Use the variable to ensure it's captured
-                'user_id' => User::where('user_name', $memberName)->value('id'), // Use $memberName here
-                'bet_id' => $transactionRequest['id'] ?? null,
-                'wager_id' => $transactionRequest['wager_code'] ?? $transactionRequest['round_id'] ?? null,
-                'game_id' => GameList::where('game_code', $transactionRequest['game_code'] ?? null)->value('id'),
-                'game_type' => $batchRequest['game_type'] ?? GameList::where('game_code', $transactionRequest['game_code'] ?? null)->value('game_type'),
-                'transaction_id' => $transactionRequest['id'] ?? null,
-                'p_code' => $batchRequest['product_code'] ?? null,
-                'action' => $transactionRequest['action'] ?? null,
-                'bet_amount' => abs($transactionRequest['amount'] ?? 0), // Log as positive
-                'payout_amount' => null, // Payouts are handled by 'P_WIN' or 'CREDIT'
-                'bet_time' => now()->timestamp, // Use current server time for logging
-                'bet_start_time' => $requestTimeInSeconds,
-                'bet_end_time' => $requestTimeInSeconds,
-                'payout_time' => $settleAtTime,
-                'before_balance' => $beforeBalance,
-                'after_balance' => $afterBalance,
+                'transaction_id' => $transactionRequest['id'] ?? '',
+                'member_account' => $batchRequest['member_account'] ?? '',
+                'player_id' => $playerId,
+                'player_agent_id' => $playerAgentId,
+                'product_code' => $batchRequest['product_code'] ?? 0,
+                'provider_name' => $providerName ?? $batchRequest['product_code'] ?? null,
+                'game_type' => $batchRequest['game_type'] ?? '',
+                'operator_code' => $fullRequest->operator_code,
+                'request_time' => $requestTimeInSeconds ? now()->setTimestamp($requestTimeInSeconds) : null,
+                'sign' => $fullRequest->sign,
                 'currency' => $fullRequest->currency,
+                'action' => $transactionRequest['action'] ?? '',
+                'amount' => $transactionRequest['amount'] ?? 0,
+                'valid_bet_amount' => $transactionRequest['valid_bet_amount'] ?? null,
+                'bet_amount' => $transactionRequest['bet_amount'] ?? null,
+                'prize_amount' => $transactionRequest['prize_amount'] ?? null,
+                'tip_amount' => $transactionRequest['tip_amount'] ?? null,
+                'wager_code' => $transactionRequest['wager_code'] ?? null,
+                'wager_status' => $transactionRequest['wager_status'] ?? null,
+                'round_id' => $transactionRequest['round_id'] ?? null,
+                'payload' => isset($transactionRequest['payload']) ? json_encode($transactionRequest['payload']) : null,
+                'settle_at' => $settleAtInSeconds ? now()->setTimestamp($settleAtInSeconds) : null,
+                'created_at_provider' => $createdAtProviderInSeconds ? now()->setTimestamp($createdAtProviderInSeconds) : null,
+                'game_code' => $transactionRequest['game_code'] ?? null,
+                'game_name' => $gameName ?? $transactionRequest['game_code'] ?? null,
+                'channel_code' => $transactionRequest['channel_code'] ?? null,
                 'status' => $status,
+                'before_balance' => $beforeBalance,
+                'balance' => $afterBalance,
                 'error_message' => $errorMessage,
-                'raw_data' => json_encode($transactionRequest),
             ]);
         } catch (QueryException $e) {
-            Log::error('Failed to log PlaceBet entry due to database error', [
-                'member_name' => $batchRequest['member_account'] ?? 'N/A', // Log it again for context
-                'transaction_id' => $transactionRequest['id'] ?? 'N/A',
-                'error' => $e->getMessage(),
-                'trace' => $e->getTraceAsString(),
-            ]);
-        } catch (Exception $e) {
-            Log::error('Failed to log PlaceBet entry due to generic error', [
-                'member_name' => $batchRequest['member_account'] ?? 'N/A', // Log it again for context
-                'transaction_id' => $transactionRequest['id'] ?? 'N/A',
-                'error' => $e->getMessage(),
-                'trace' => $e->getTraceAsString(),
-            ]);
+            // MySQL: 23000, PostgreSQL: 23505 for unique constraint violation
+            if (in_array($e->getCode(), ['23000', '23505'])) {
+                Log::warning('Duplicate transaction detected when logging to PlaceBet, preventing re-insertion.', [
+                    'transaction_id' => $transactionRequest['id'] ?? '',
+                    'member_account' => $batchRequest['member_account'] ?? '',
+                    'error' => $e->getMessage(),
+                ]);
+            } else {
+                throw $e; // Re-throw other database exceptions
+            }
         }
     }
+    // private function logPlaceBet(
+    //     array $batchRequest,
+    //     Request $fullRequest,
+    //     array $transactionRequest,
+    //     string $status,
+    //     ?int $requestTime,
+    //     ?string $errorMessage = null,
+    //     ?float $beforeBalance = null,
+    //     ?float $afterBalance = null
+    // ): void {
+    //     // Convert milliseconds to seconds if necessary for timestamp columns
+    //     $requestTimeInSeconds = $requestTime ? floor($requestTime / 1000) : null;
+    //     $settleAtTime = $transactionRequest['settle_at'] ?? $transactionRequest['settled_at'] ?? null;
+
+    //     try {
+    //         // FIX: Ensure member_name is always set from batchRequest if available
+    //         $memberName = $batchRequest['member_account'] ?? null;
+    //         if (is_null($memberName)) {
+    //             Log::error('logPlaceBet: member_account is null in batchRequest', ['batchRequest' => $batchRequest, 'transactionRequest' => $transactionRequest]);
+    //             // Depending on strictness, you might throw an exception or return here
+    //             // For now, let's proceed and let DB handle NOT NULL if it's truly missing.
+    //             // However, the error log indicates it *should* be present, implying a mapping issue or specific test case.
+    //         }
+
+    //         PlaceBet::create([
+    //             'member_name' => $memberName, // Use the variable to ensure it's captured
+    //             'user_id' => User::where('user_name', $memberName)->value('id'), // Use $memberName here
+    //             'bet_id' => $transactionRequest['id'] ?? null,
+    //             'wager_id' => $transactionRequest['wager_code'] ?? $transactionRequest['round_id'] ?? null,
+    //             'game_id' => GameList::where('game_code', $transactionRequest['game_code'] ?? null)->value('id'),
+    //             'game_type' => $batchRequest['game_type'] ?? GameList::where('game_code', $transactionRequest['game_code'] ?? null)->value('game_type'),
+    //             'transaction_id' => $transactionRequest['id'] ?? null,
+    //             'p_code' => $batchRequest['product_code'] ?? null,
+    //             'action' => $transactionRequest['action'] ?? null,
+    //             'bet_amount' => abs($transactionRequest['amount'] ?? 0), // Log as positive
+    //             'payout_amount' => null, // Payouts are handled by 'P_WIN' or 'CREDIT'
+    //             'bet_time' => now()->timestamp, // Use current server time for logging
+    //             'bet_start_time' => $requestTimeInSeconds,
+    //             'bet_end_time' => $requestTimeInSeconds,
+    //             'payout_time' => $settleAtTime,
+    //             'before_balance' => $beforeBalance,
+    //             'after_balance' => $afterBalance,
+    //             'currency' => $fullRequest->currency,
+    //             'status' => $status,
+    //             'error_message' => $errorMessage,
+    //             'raw_data' => json_encode($transactionRequest),
+    //         ]);
+    //     } catch (QueryException $e) {
+    //         Log::error('Failed to log PlaceBet entry due to database error', [
+    //             'member_name' => $batchRequest['member_account'] ?? 'N/A', // Log it again for context
+    //             'transaction_id' => $transactionRequest['id'] ?? 'N/A',
+    //             'error' => $e->getMessage(),
+    //             'trace' => $e->getTraceAsString(),
+    //         ]);
+    //     } catch (Exception $e) {
+    //         Log::error('Failed to log PlaceBet entry due to generic error', [
+    //             'member_name' => $batchRequest['member_account'] ?? 'N/A', // Log it again for context
+    //             'transaction_id' => $transactionRequest['id'] ?? 'N/A',
+    //             'error' => $e->getMessage(),
+    //             'trace' => $e->getTraceAsString(),
+    //         ]);
+    //     }
+    // }
 }
