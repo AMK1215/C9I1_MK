@@ -110,7 +110,7 @@
              <a href="{{ route('home') }}" class="brand-link">
             <img src="{{ asset('img/city_slot_logo.png') }}" alt="AdminLTE Logo"
                 class="brand-image img-circle elevation-3" style="opacity: .8">
-            <span class="brand-text font-weight-light">TTTGaming</span>
+            <span class="brand-text font-weight-light">MONEYKING</span>
             </a> 
             <!-- Brand Logo -->
 
