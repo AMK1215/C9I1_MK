@@ -20,7 +20,7 @@ class BannerController extends Controller
     {
         $user = Auth::user();
 
-        $admin = $user->parent;
+        $admin = $user->parent->parent;
 
         $data = Banner::where('admin_id', $admin->agent_id)->get();
 
