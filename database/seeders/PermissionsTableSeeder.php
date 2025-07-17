@@ -268,6 +268,79 @@ class PermissionsTableSeeder extends Seeder
                 'updated_at' => now(),
             ],
 
+            // master permission 
+            [
+                'title' => 'master_access',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_index',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_create',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_edit',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_delete',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_change_password_access',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_transfer_log',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_make_transfer',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_bank',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_withdraw',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_deposit',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
+            [
+                'title' => 'master_contact',
+                'group' => 'master',
+                'created_at' => now(),
+                'updated_at' => now(),
+            ],
         ];
 
         Permission::insert($permissions);
