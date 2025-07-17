@@ -67,10 +67,11 @@ class PermissionRoleTableSeeder extends Seeder
 
     private const ROLE_IDS = [
         'Owner' => 1,
-        'Agent' => 2,
-        'SubAgent' => 3,
-        'Player' => 4,
-        'SystemWallet' => 5,
+        'Master' => 2,
+        'Agent' => 3,
+        'SubAgent' => 4,
+        'Player' => 5,
+        'SystemWallet' => 6,
     ];
 
     public function run(): void
