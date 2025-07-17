@@ -30,7 +30,7 @@ class BannerController extends Controller
     public function TopTen()
     {
         $user = Auth::user();
-        $admin = $user->parent;
+        $admin = $user->parent->parent;
 
         $data = TopTenWithdraw::where('admin_id', $admin->agent_id)->get();
 
@@ -41,7 +41,7 @@ class BannerController extends Controller
     {
         $user = Auth::user();
 
-        $admin = $user->parent;
+        $admin = $user->parent->parent;
 
         $data = BannerText::where('admin_id', $admin->agent_id)->get();
 
@@ -63,7 +63,7 @@ class BannerController extends Controller
     {
         $user = Auth::user();
 
-        $admin = $user->parent;
+        $admin = $user->parent->parent;
 
         $data = WinnerText::where('owner_id', $admin->agent_id)->latest()->first();
 
@@ -77,8 +77,8 @@ class BannerController extends Controller
 
         // Traverse up the hierarchy to find the root admin
         $admin = $user;
-        while ($admin->parent) {
-            $admin = $admin->parent;
+        while ($admin->parent->parent) {
+            $admin = $admin->parent->parent;
         }
 
         // Fetch banners for the determined admin
