@@ -15,11 +15,19 @@
         @media (max-width: 768px) {
             .login-page {
                 background-size: cover;
-                background-image: url(img/mobile.png);
+                background-image: url(assetsimg/city_slot_logo.png);
                 padding: 20px;
                 /* Add padding for smaller screens */
             }
 
+        }
+
+        /* desktop view */
+        @media (min-width: 768px) {
+            .login-page {
+                background-size: cover;
+                background-image: url(assets/img/city_slot_logo.png);
+            }
         }
 
         body, html {
