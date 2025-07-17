@@ -73,20 +73,20 @@
             "status": "ACTIVATED"
         },
         {
-            "game_code": "7008",
-            "game_name": "Fighter Fire",
+            "game_code": "7009",
+            "game_name": "FISHING LEGEND",
             "game_type": "FISHING",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1085/FISHING/7008.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1085/FISHING/7009.png",
             "product_id": 1195,
             "product_code": 1085,
             "support_currency": "MMK",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "7009",
-            "game_name": "FISHING LEGEND",
+            "game_code": "7008",
+            "game_name": "Fighter Fire",
             "game_type": "FISHING",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1085/FISHING/7009.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1085/FISHING/7008.png",
             "product_id": 1195,
             "product_code": 1085,
             "support_currency": "MMK",

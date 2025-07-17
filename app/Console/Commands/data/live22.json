@@ -93,6 +93,16 @@
             "status": "ACTIVATED"
         },
         {
+            "game_code": "35002",
+            "game_name": "Classic Diamond X5",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1018/SLOT/35002.png",
+            "product_id": 1237,
+            "product_code": 1018,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
             "game_code": "30010",
             "game_name": "BlackPink",
             "game_type": "SLOT",
@@ -253,6 +263,16 @@
             "status": "ACTIVATED"
         },
         {
+            "game_code": "39999",
+            "game_name": "Jarvis",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1018/SLOT/39999.png",
+            "product_id": 1237,
+            "product_code": 1018,
+            "support_currency": "MMK",
+            "status": "ACTIVATED"
+        },
+        {
             "game_code": "30027",
             "game_name": "Block Buster",
             "game_type": "SLOT",
@@ -297,26 +317,6 @@
             "game_name": "Advent of Dragon",
             "game_type": "SLOT",
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1018/SLOT/30031.png",
-            "product_id": 1237,
-            "product_code": 1018,
-            "support_currency": "MMK",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "35002",
-            "game_name": "Classic Diamond X5",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1018/SLOT/35002.png",
-            "product_id": 1237,
-            "product_code": 1018,
-            "support_currency": "MMK",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "39999",
-            "game_name": "Jarvis",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1018/SLOT/39999.png",
             "product_id": 1237,
             "product_code": 1018,
             "support_currency": "MMK",
