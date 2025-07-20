@@ -54,7 +54,7 @@ class DirectLaunchGameController extends Controller
 
             $currencyMap = [
                 1007 => 'MMK2', 1221 => 'MMK2', 1040 => 'MMK2',
-                1046 => 'MMK2', 1004 => 'MMK2',
+                1046 => 'MMK2', 1004 => 'MMK2', 1225 => 'MMK2',
             ];
 
             $apiCurrency = $currencyMap[$validatedData['product_code']] ?? config('seamless_key.api_currency');
