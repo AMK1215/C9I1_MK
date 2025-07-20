@@ -15,7 +15,7 @@ class MrSlotyKironSlotSeeder extends Seeder
      */
     public function run()
     {
-        $jsonPath = base_path('app/Console/Commands/data/mrsloty_kiron_slot.json');
+        $jsonPath = base_path('app/Console/Commands/data/mrsloty_kiro_slot.json');
         $data = json_decode(File::get($jsonPath), true);
         $now = Carbon::now();
 
