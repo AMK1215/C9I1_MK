@@ -9,7 +9,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101000.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -19,7 +19,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101001.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -29,7 +29,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101002.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -39,7 +39,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101003.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -49,7 +49,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101004.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -59,7 +59,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101005.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -69,7 +69,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101006.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -79,7 +79,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101007.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -89,7 +89,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101008.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -99,297 +99,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101009.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101010",
-            "game_name": "Macarena",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101010.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101011",
-            "game_name": "5 Sevens",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101011.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101012",
-            "game_name": "Million Dollar Heist",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101012.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101013",
-            "game_name": "5 Super Clover",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101013.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101014",
-            "game_name": "50 Jokers Christmas",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101014.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101015",
-            "game_name": "20 Mega Hotfire",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101015.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101016",
-            "game_name": "Book Hotfire Buy Bonus",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101016.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101017",
-            "game_name": "Million Dollar Heist Xtreme",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101017.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101018",
-            "game_name": "Ultra Hotfire",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101018.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101019",
-            "game_name": "40 Mega Hotfire",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101019.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101020",
-            "game_name": "Book Hotfire Multichance Buy Bonus",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101020.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101021",
-            "game_name": "Jackass Gold Hold & Win",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101021.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101022",
-            "game_name": "Aztec Eclipse Hold & Win",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101022.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101023",
-            "game_name": "Book of Flames Hold & Win",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101023.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101024",
-            "game_name": "Million Dollar Heist Xtreme Buy Bonus",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101024.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101025",
-            "game_name": "Gold Fever Buy Bonus",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101025.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101026",
-            "game_name": "5 Sevens Hold & Win Christmas",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101026.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101027",
-            "game_name": "Jackass Gold Hold & Win Buy Bonus",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101027.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101028",
-            "game_name": "10 Devils Hotfire",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101028.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101029",
-            "game_name": "Christmas Boom",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101029.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101030",
-            "game_name": "Three Hotfire",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101030.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101031",
-            "game_name": "Coins of Fate",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101031.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101032",
-            "game_name": "Bounty of the Seas: Hold & Win",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101032.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101033",
-            "game_name": "10 Super Clover",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101033.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101037",
-            "game_name": "Double Devil's Hotfire",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101037.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101038",
-            "game_name": "Book of Flames",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101038.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101040",
-            "game_name": "One Mad Hatter",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101040.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101042",
-            "game_name": "Thunder Vault: Hold & Win",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101042.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "101044",
-            "game_name": "Vault Lock: Crack it Big!",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101044.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -399,7 +109,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102000.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -409,7 +119,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102001.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -419,7 +129,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102002.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -429,7 +139,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102003.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -439,7 +149,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102004.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -449,7 +159,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102005.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -459,7 +169,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102006.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -469,7 +179,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102007.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -479,7 +189,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102008.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -489,7 +199,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102009.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -499,7 +209,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102010.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -509,7 +219,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102011.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -519,7 +229,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102012.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -529,7 +239,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102013.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -539,7 +249,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102014.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -549,7 +259,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102015.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -559,7 +269,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102016.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -569,7 +279,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102017.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -579,7 +289,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102018.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -589,7 +299,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102019.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -599,7 +309,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102020.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -609,7 +319,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102021.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -619,7 +329,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102022.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -629,7 +339,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102023.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -639,7 +349,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102024.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -649,7 +359,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102025.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -659,7 +369,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102026.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -669,7 +379,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102027.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -679,7 +389,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102028.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -689,7 +399,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102029.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -699,7 +409,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102030.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -709,7 +419,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102031.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -719,7 +429,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102032.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -729,7 +439,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102033.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -739,7 +449,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102034.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -749,7 +459,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102035.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -759,7 +469,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102036.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -769,7 +479,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102037.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -779,7 +489,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102038.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -789,7 +499,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102039.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -799,7 +509,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102040.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -809,7 +519,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102041.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -819,7 +529,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102042.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -829,17 +539,37 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102043.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "102044",
-            "game_name": "Hot Chance",
+            "game_code": "101012",
+            "game_name": "Million Dollar Heist",
             "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102044.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101012.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101018",
+            "game_name": "Ultra Hotfire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101018.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101011",
+            "game_name": "5 Sevens",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101011.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -849,47 +579,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102045.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "102046",
-            "game_name": "Roaring Forties",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102046.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "102047",
-            "game_name": "Book of Ra Magic",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102047.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "102048",
-            "game_name": "Queen of Hearts Deluxe",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102048.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "102049",
-            "game_name": "Sizzling Hot",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102049.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -899,27 +589,47 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102050.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "102051",
-            "game_name": "Rise of Tut Magic Buy Bonus",
+            "game_code": "101019",
+            "game_name": "40 Mega Hotfire",
             "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102051.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101019.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "102052",
-            "game_name": "The Magic Flute",
+            "game_code": "102047",
+            "game_name": "Book of Ra Magic",
             "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102052.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102047.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102048",
+            "game_name": "Queen of Hearts Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102048.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101020",
+            "game_name": "Book Hotfire Multichance Buy Bonus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101020.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -929,7 +639,137 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102053.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101017",
+            "game_name": "Million Dollar Heist Xtreme",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101017.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102046",
+            "game_name": "Roaring Forties",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102046.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101015",
+            "game_name": "20 Mega Hotfire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101015.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101010",
+            "game_name": "Macarena",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101010.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101013",
+            "game_name": "5 Super Clover",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101013.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101016",
+            "game_name": "Book Hotfire Buy Bonus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101016.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101014",
+            "game_name": "50 Jokers Christmas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101014.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102044",
+            "game_name": "Hot Chance",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102044.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102049",
+            "game_name": "Sizzling Hot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102049.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102052",
+            "game_name": "The Magic Flute",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102052.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101022",
+            "game_name": "Aztec Eclipse Hold & Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101022.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102051",
+            "game_name": "Rise of Tut Magic Buy Bonus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102051.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101023",
+            "game_name": "Book of Flames Hold & Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101023.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -939,17 +779,57 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102054.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "102055",
-            "game_name": "Lord of the Ocean Buy Bonus",
+            "game_code": "101025",
+            "game_name": "Gold Fever Buy Bonus",
             "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102055.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101025.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101021",
+            "game_name": "Jackass Gold Hold & Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101021.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101026",
+            "game_name": "5 Sevens Hold & Win Christmas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101026.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101024",
+            "game_name": "Million Dollar Heist Xtreme Buy Bonus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101024.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101029",
+            "game_name": "Christmas Boom",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101029.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -959,7 +839,47 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102056.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101028",
+            "game_name": "10 Devils Hotfire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101028.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101027",
+            "game_name": "Jackass Gold Hold & Win Buy Bonus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101027.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101030",
+            "game_name": "Three Hotfire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101030.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101031",
+            "game_name": "Coins of Fate",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101031.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -969,7 +889,17 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102057.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102055",
+            "game_name": "Lord of the Ocean Buy Bonus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102055.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -979,7 +909,27 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102058.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101032",
+            "game_name": "Bounty of the Seas: Hold & Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101032.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101033",
+            "game_name": "10 Super Clover",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101033.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -989,27 +939,7 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102059.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "102060",
-            "game_name": "Cash Connection Dolphin's Pearl",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102060.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
-            "status": "ACTIVATED"
-        },
-        {
-            "game_code": "102061",
-            "game_name": "Piggy Prizes Wand of Riches",
-            "game_type": "SLOT",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102061.png",
-            "product_id": 1248,
-            "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         },
         {
@@ -1019,13 +949,123 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102062.png",
             "product_id": 1248,
             "product_code": 1163,
-            "support_currency": "CNY",
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101042",
+            "game_name": "Thunder Vault: Hold & Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101042.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101038",
+            "game_name": "Book of Flames",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101038.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102061",
+            "game_name": "Piggy Prizes Wand of Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102061.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101044",
+            "game_name": "Vault Lock: Crack it Big!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101044.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101037",
+            "game_name": "Double Devil's Hotfire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101037.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101040",
+            "game_name": "One Mad Hatter",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101040.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102060",
+            "game_name": "Cash Connection Dolphin's Pearl",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102060.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101043",
+            "game_name": "40 Super Clover",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101043.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101046",
+            "game_name": "8 Bullets Hold & Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101046.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "101039",
+            "game_name": "Super Triple Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/101039.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "102068",
+            "game_name": "Diamond Link Mighty Sevens",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1163/SLOT/102068.png",
+            "product_id": 1248,
+            "product_code": 1163,
+            "support_currency": "AZN,SGD,ARS,MAD,BOB,MYR,CNY,HKD,SAR,PEN",
             "status": "ACTIVATED"
         }
     ],
     "pagination": {
         "size": 0,
         "offset": 0,
-        "total": "102"
+        "total": "106"
     }
 }

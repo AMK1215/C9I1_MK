@@ -1,0 +1,541 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "felix-40pixels",
+            "game_name": "40 Pixels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-40pixels.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-amazing-yu",
+            "game_name": "Amazing Yu",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-amazing-yu.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-bookofanunnaki",
+            "game_name": "Book of Anunnaki",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-bookofanunnaki.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-caishen",
+            "game_name": "Caishen",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-caishen.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-darkmystic",
+            "game_name": "Dark Mystic",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-darkmystic.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-deepblue",
+            "game_name": "Deep Blue",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-deepblue.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-fortunedeck",
+            "game_name": "Fortune Deck",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-fortunedeck.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-fruitymania",
+            "game_name": "Fruity Mania",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-fruitymania.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-gummybears",
+            "game_name": "Gummy Bears",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-gummybears.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-hitsaber",
+            "game_name": "HIT SABER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-hitsaber.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-itsajoker",
+            "game_name": "It's a Joker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-itsajoker.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-jackthewinner",
+            "game_name": "Jack the Winner",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-jackthewinner.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-jokerheist",
+            "game_name": "Joker Heist",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-jokerheist.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-juicywilds",
+            "game_name": "Juicy Wilds",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-juicywilds.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-junglebeats",
+            "game_name": "Jungle Beats",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-junglebeats.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-kukers",
+            "game_name": "Kukers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-kukers.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-lightdance",
+            "game_name": "Light Dance",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-lightdance.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-linesofmagic",
+            "game_name": "Lines of Magic",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-linesofmagic.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-monacofever",
+            "game_name": "Monaco Fever",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-monacofever.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-mrluck",
+            "game_name": "Mr. Luck",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-mrluck.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-pharaohstemple",
+            "game_name": "Pharaoh's Temple",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-pharaohstemple.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-planetrocks",
+            "game_name": "Planet Rocks",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-planetrocks.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-redlion",
+            "game_name": "Red Lion",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-redlion.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-shakeshake",
+            "game_name": "Shake! Shake!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-shakeshake.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-spinachos",
+            "game_name": "Spinachos",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-spinachos.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-spinbox",
+            "game_name": "SpinBox",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-spinbox.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-sugarland",
+            "game_name": "Sugar Land",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-sugarland.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-threekingdomsromance",
+            "game_name": "Three Kingdoms Romance",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-threekingdomsromance.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-underthefifthsun",
+            "game_name": "Under the Fifth Sun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-underthefifthsun.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-wildbeast",
+            "game_name": "The Wild Beast of Crete",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-wildbeast.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-witchercave",
+            "game_name": "Witcher Cave",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-witchercave.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-20boosthot",
+            "game_name": "20 Boost Hot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-20boosthot.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-rollzone",
+            "game_name": "RollZone",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-rollzone.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-bookofdragonholdandwin",
+            "game_name": "Book of Dragon - Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-bookofdragonholdandwin.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-5boosthot",
+            "game_name": "5 Boost Hot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-5boosthot.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-5hotwildsboost",
+            "game_name": "5 Hot Wilds Boost",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-5hotwildsboost.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-10boosthot",
+            "game_name": "10 Boost Hot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-10boosthot.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-fruitsofmadness",
+            "game_name": "Fruits of Madness",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-fruitsofmadness.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-minipralines",
+            "game_name": "Mini Pralines",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-minipralines.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-100holdhotholdandwin",
+            "game_name": "100 Hold HOT – Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-100holdhotholdandwin.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-joker-qwin-hold-and-win",
+            "game_name": "Joker Qwin – Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-joker-qwin-hold-and-win.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-wolfgonewildholdandwin",
+            "game_name": "Wolf Gone Wild Hold And Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-wolfgonewildholdandwin.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-40boostclover",
+            "game_name": "40 Boost Clover",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-40boostclover.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-fruitscash",
+            "game_name": "Fruits Cash",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-fruitscash.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-20hotwildsboost",
+            "game_name": "20 Hot Wilds Boost",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-20hotwildsboost.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-pharaohspowerholdandwin",
+            "game_name": "Pharaoh's Power - Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-pharaohspowerholdandwin.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-10hotwildsboost",
+            "game_name": "10 Hot Wilds Boost",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-10hotwildsboost.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-jokeracesholdandwin",
+            "game_name": "Joker Aces - Hold And Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-jokeracesholdandwin.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-piratejokerholdandwin",
+            "game_name": "Pirate Joker - Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-piratejokerholdandwin.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-discorushholdandwin",
+            "game_name": "Disco Rush - Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-discorushholdandwin.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-5tropicalfruitsboost",
+            "game_name": "5 Tropical Fruits Boost",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-5tropicalfruitsboost.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-20tropicalfruitsboost",
+            "game_name": "20 Tropical Fruits Boost",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-20tropicalfruitsboost.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "felix-10tropicalfruitsboost",
+            "game_name": "10 Tropical Fruits Boost",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1098/SLOT/felix-10tropicalfruitsboost.png",
+            "product_id": 1153,
+            "product_code": 1098,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "53"
+    }
+}

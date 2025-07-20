@@ -1,0 +1,1591 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "redrake-2kingsofafrica",
+            "game_name": "2 Kings of Africa",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-2kingsofafrica.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-alchemy-ways",
+            "game_name": "Alchemy Ways",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-alchemy-ways.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-the-adventures-of-ali-baba",
+            "game_name": "The adventures of Ali Baba",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-the-adventures-of-ali-baba.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-bonnie-clyde",
+            "game_name": "Bonnie & Clyde",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-bonnie-clyde.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-ragin-buffalo",
+            "game_name": "Ragin' Buffalo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-ragin-buffalo.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-buffalo-on-fire",
+            "game_name": "Buffalo on Fire!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-buffalo-on-fire.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-burning-chilli",
+            "game_name": "Burning Chilli",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-burning-chilli.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-3-butterflies",
+            "game_name": "3 Butterflies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-3-butterflies.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-respins-diamonds",
+            "game_name": "Respins & Diamonds",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-respins-diamonds.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-diamond-cascade",
+            "game_name": "DIAMOND CASCADE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-diamond-cascade.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-the-legendary-red-dragon",
+            "game_name": "The Legendary Red Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-the-legendary-red-dragon.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-mysteries-of-egypt",
+            "game_name": "Mysteries of Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-mysteries-of-egypt.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-electric-sevens",
+            "game_name": "Electric Sevens",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-electric-sevens.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-the-secret-of-the-opera",
+            "game_name": "The Secret of the Opera",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-the-secret-of-the-opera.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-flamingo-paradise",
+            "game_name": "Flamingo Paradise",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-flamingo-paradise.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-fruits-n-jars",
+            "game_name": "Fruits´n Jars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-fruits-n-jars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-guardianofra",
+            "game_name": "GUARDIAN OF RA",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-guardianofra.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-hot-win",
+            "game_name": "HOT & WIN",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-hot-win.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-mother-of-horus",
+            "game_name": "Mother of Horus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-mother-of-horus.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-knights",
+            "game_name": "Knights",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-knights.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-longmuandthedragons",
+            "game_name": "Longmu and the dragons",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-longmuandthedragons.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-loreleis-pearls",
+            "game_name": "LORELEI'S PEARLS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-loreleis-pearls.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-luckyadam",
+            "game_name": "Lucky Adam",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-luckyadam.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-magic-wilds",
+            "game_name": "Magic Wilds",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-magic-wilds.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-the-travels-of-marco",
+            "game_name": "The Travels of Marco",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-the-travels-of-marco.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-mata-hari-the-spy",
+            "game_name": "Mata Hari: the spy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-mata-hari-the-spy.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-max-dangerous-and-the-lost-relics",
+            "game_name": "Max Dangerous and the Lost Relics",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-max-dangerous-and-the-lost-relics.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-maya",
+            "game_name": "Maya",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-maya.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-mega-stellar",
+            "game_name": "Mega Stellar",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-mega-stellar.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-777",
+            "game_name": "MILLION 777",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-777.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-dracula",
+            "game_name": "Million Dracula",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-dracula.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-milliondracula2",
+            "game_name": "Million Dracula 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-milliondracula2.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-7",
+            "game_name": "Million 7",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-7.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-gustav-minebuster",
+            "game_name": "Gustav Minebuster",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-gustav-minebuster.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-mystic-mirror",
+            "game_name": "Mystic Lady",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-mystic-mirror.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-mystic-spirits",
+            "game_name": "Mystic Spirits",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-mystic-spirits.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-nefertitis-riches",
+            "game_name": "Nefertiti's riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-nefertitis-riches.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-parrot-bay",
+            "game_name": "PARROT BAY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-parrot-bay.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-red-dragon-vs-blue-dragon",
+            "game_name": "Red Dragon vs Blue Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-red-dragon-vs-blue-dragon.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-obryans-funland",
+            "game_name": "O'Bryans' Funland",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-obryans-funland.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-ways-of-the-samurai",
+            "game_name": "WAYS OF THE SAMURAI",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-ways-of-the-samurai.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-secrets-of-the-temple",
+            "game_name": "Secrets of the Temple",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-secrets-of-the-temple.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-solomon-the-king",
+            "game_name": "Solomon: the King",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-solomon-the-king.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-speed-heroes",
+            "game_name": "Speed Heroes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-speed-heroes.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-cai-shen-88",
+            "game_name": "Cai Shen 88",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-cai-shen-88.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-10-stars",
+            "game_name": "Super 10 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-10-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-12-stars",
+            "game_name": "Super 12 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-12-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-15-stars",
+            "game_name": "Super 15 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-15-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-20-stars",
+            "game_name": "Super 20 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-20-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-30-stars",
+            "game_name": "Super 30 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-30-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-5-stars",
+            "game_name": "Super 5 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-5-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-7-stars",
+            "game_name": "Super 7 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-7-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-tiger-and-dragon",
+            "game_name": "Tiger and Dragon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-tiger-and-dragon.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-queens-and-diamonds",
+            "game_name": "Queens and Diamonds",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-queens-and-diamonds.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-ultra-burst",
+            "game_name": "Ultra Burst",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-ultra-burst.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-tommy-gun-s-vendetta",
+            "game_name": "Tommy Gun´s Vendetta",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-tommy-gun-s-vendetta.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-vikingsjourney",
+            "game_name": "Viking's Journey",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-vikingsjourney.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-viva-las-vegas",
+            "game_name": "Viva Las Vegas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-viva-las-vegas.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-wild-animals",
+            "game_name": "Wild Animals",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-wild-animals.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-wildcano",
+            "game_name": "Wildcano",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-wildcano.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-myrtle-the-witch",
+            "game_name": "Myrtle the Witch",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-myrtle-the-witch.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-siberian-wolf",
+            "game_name": "Siberian Wolf",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-siberian-wolf.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-millionzeus",
+            "game_name": "MILLION ZEUS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-millionzeus.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-gamehub-ladyforest",
+            "game_name": "Lady Forest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-gamehub-ladyforest.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-gods-of-ireland",
+            "game_name": "Gods of Ireland",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-gods-of-ireland.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-judges-rule-the-show",
+            "game_name": "Judges Rule the Show!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-judges-rule-the-show.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-1st-of-the-irish",
+            "game_name": "1st of the Irish",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-1st-of-the-irish.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-age-of-olympus-apollo",
+            "game_name": "Age of Olympus: Apollo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-age-of-olympus-apollo.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-777-heist",
+            "game_name": "777 Heist",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-777-heist.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-777-heist-2-the-art-forger",
+            "game_name": "777 Heist 2 The Art Forger",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-777-heist-2-the-art-forger.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-gold-rush-riches",
+            "game_name": "Gold Rush Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-gold-rush-riches.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-jack-olantern-vs-the-headless-horseman",
+            "game_name": "Jack O'Lantern vs The Headless Horseman",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-jack-olantern-vs-the-headless-horseman.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-the-asp-of-cleopatra",
+            "game_name": "The Asp of Cleopatra",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-the-asp-of-cleopatra.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-eastern-goddesses",
+            "game_name": "Eastern Goddesses",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-eastern-goddesses.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-captain-wild",
+            "game_name": "Captain Wild",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-captain-wild.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-ryan-obryan-and-the-celtic-fairies",
+            "game_name": "Ryan O'Bryan and the Celtic Fairies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-ryan-obryan-and-the-celtic-fairies.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-heidi-at-oktoberfest",
+            "game_name": "Heidi at Oktoberfest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-heidi-at-oktoberfest.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-guardiansofluxor",
+            "game_name": "Guardians of Luxor",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-guardiansofluxor.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-triple-irish",
+            "game_name": "Triple Irish",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-triple-irish.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-ramses-legacy",
+            "game_name": "Ramses Legacy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-ramses-legacy.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-tikigoddess",
+            "game_name": "Tiki Goddess",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-tikigoddess.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-big-size-fishin",
+            "game_name": "Big Size Fishin'",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-big-size-fishin.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million777wheel",
+            "game_name": "Million 777 Wheel",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million777wheel.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-vegas",
+            "game_name": "Million Vegas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-vegas.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-medusahunt",
+            "game_name": "Medusa Hunt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-medusahunt.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million88",
+            "game_name": "Million 88",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million88.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-megarich",
+            "game_name": "Mega Rich",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-megarich.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-millionchristmas",
+            "game_name": "Million Christmas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-millionchristmas.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-boomerang-jacks-lost-mines",
+            "game_name": "Boomerang Jack's Lost Mines",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-boomerang-jacks-lost-mines.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-halloween-wins",
+            "game_name": "Halloween Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-halloween-wins.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super25stars",
+            "game_name": "Super 25 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super25stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-777-hot",
+            "game_name": "Million 777 Hot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-777-hot.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-frenzy-discs-twin-numbers",
+            "game_name": "Frenzy Discs - Twin Numbers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-frenzy-discs-twin-numbers.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-double-bonus",
+            "game_name": "DOUBLE BONUS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-double-bonus.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-american-roulette",
+            "game_name": "American Roulette",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-american-roulette.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-world-football",
+            "game_name": "World Football",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-world-football.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-aces-deuces-bonus-poker",
+            "game_name": "ACES & DEUCES BONUS POKER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-aces-deuces-bonus-poker.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-lotus-dynasty",
+            "game_name": "Lotus Dynasty",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-lotus-dynasty.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-christmas",
+            "game_name": "Million Christmas 2023",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-christmas.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-musketeers-1-wild-for-all",
+            "game_name": "Musketeers 1 Wild For All",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-musketeers-1-wild-for-all.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-legacy-of-athena",
+            "game_name": "Legacy of Athena",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-legacy-of-athena.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-double-aces-and-faces",
+            "game_name": "DOUBLE ACES AND FACES",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-double-aces-and-faces.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-blackjack-european",
+            "game_name": "BLACKJACK EUROPEAN",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-blackjack-european.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-royal-court",
+            "game_name": "ROYAL COURT",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-royal-court.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-arabian-wins",
+            "game_name": "Arabian Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-arabian-wins.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-shaman-song",
+            "game_name": "Shaman Song",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-shaman-song.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-muertitos",
+            "game_name": "Muertitos",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-muertitos.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-roulette-vip",
+            "game_name": "Roulette VIP",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-roulette-vip.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-joker-poker",
+            "game_name": "JOKER POKER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-joker-poker.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-jungle-break",
+            "game_name": "Jungle Break",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-jungle-break.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-50-stars",
+            "game_name": "Super 50 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-50-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-zeus-2",
+            "game_name": "Million Zeus 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-zeus-2.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-bonus-poker",
+            "game_name": "BONUS POKER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-bonus-poker.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-deuces-jokers",
+            "game_name": "DEUCES & JOKERS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-deuces-jokers.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-triple-bonus-poker",
+            "game_name": "TRIPLE BONUS POKER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-triple-bonus-poker.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-blackjack-atlantic-city",
+            "game_name": "BLACKJACK ATLANTIC CITY",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-blackjack-atlantic-city.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-number-bonus",
+            "game_name": "NUMBER BONUS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-number-bonus.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-blackjack-switch",
+            "game_name": "BLACKJACK SWITCH",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-blackjack-switch.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-bonus-deuces-wild",
+            "game_name": "BONUS DEUCES WILD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-bonus-deuces-wild.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-blackjack-vegas-strip",
+            "game_name": "BLACKJACK VEGAS STRIP",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-blackjack-vegas-strip.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-the-gold-of-poseidon",
+            "game_name": "The gold of Poseidon",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-the-gold-of-poseidon.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-european-roulette",
+            "game_name": "European Roulette",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-european-roulette.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-french-roulette",
+            "game_name": "French Roulette",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-french-roulette.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-deuces-wild",
+            "game_name": "DEUCES WILD",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-deuces-wild.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-sequential-royal",
+            "game_name": "SEQUENTIAL ROYAL",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-sequential-royal.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-planet-67",
+            "game_name": "Planet 67",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-planet-67.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-faces-and-deuces",
+            "game_name": "FACES AND DEUCES",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-faces-and-deuces.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-blackjack-double-exposure",
+            "game_name": "BLACKJACK DOUBLE EXPOSURE",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-blackjack-double-exposure.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-all-american",
+            "game_name": "ALL AMERICAN",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-all-american.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-megamoney",
+            "game_name": "Megamoney",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-megamoney.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-jacks-or-better",
+            "game_name": "JACKS OR BETTER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-jacks-or-better.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-disco-nights",
+            "game_name": "Disco Nights",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-disco-nights.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-twin-harlequin",
+            "game_name": "Twin Harlequin",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-twin-harlequin.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-secrets-of-the-temple-2",
+            "game_name": "Secrets Of the Temple 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-secrets-of-the-temple-2.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-blackjack-vip",
+            "game_name": "BLACKJACK VIP",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-blackjack-vip.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-five-aces",
+            "game_name": "FIVE ACES",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-five-aces.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-guardians-of-luxor-2",
+            "game_name": "Guardians of Luxor 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-guardians-of-luxor-2.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-double-double-bonus",
+            "game_name": "DOUBLE DOUBLE BONUS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-double-double-bonus.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-aces-eights",
+            "game_name": "ACES & EIGHTS",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-aces-eights.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-aces-faces",
+            "game_name": "ACES & FACES",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-aces-faces.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-tens-or-better",
+            "game_name": "TENS OR BETTER",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-tens-or-better.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-blackjack-fast",
+            "game_name": "BLACKJACK FAST",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-blackjack-fast.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "BRL,PHP,VND,THB,INR,IDR",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "redrake-bigger-size-fishin",
+            "game_name": "Bigger Size Fishin'",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-bigger-size-fishin.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-20000-waves",
+            "game_name": "20 000 Waves",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-20000-waves.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-halloween-wins-2",
+            "game_name": "Halloween Wins 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-halloween-wins-2.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-777-bells",
+            "game_name": "Million 777 Bells",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-777-bells.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-space-wins",
+            "game_name": "Space Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-space-wins.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-christmas-wins",
+            "game_name": "Christmas Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-christmas-wins.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-christmas-2",
+            "game_name": "Million Christmas 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-christmas-2.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-cleo-team",
+            "game_name": "Cleo Team",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-cleo-team.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-hawaiitopia",
+            "game_name": "Hawaiitopia",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-hawaiitopia.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-million-irish",
+            "game_name": "Million Irish",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-million-irish.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-guardians-of-luxor3",
+            "game_name": "Guardians of Luxor 3",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-guardians-of-luxor3.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-sugar-burst",
+            "game_name": "Sugar Burst",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-sugar-burst.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-vegas-all-in",
+            "game_name": "Vegas All In",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-vegas-all-in.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-midaswins",
+            "game_name": "Midas Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-midaswins.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-grand-bison",
+            "game_name": "Grand Bison",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-grand-bison.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "redrake-super-60-stars",
+            "game_name": "Super 60 Stars",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1067/SLOT/redrake-super-60-stars.png",
+            "product_id": 1157,
+            "product_code": 1067,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "158"
+    }
+}

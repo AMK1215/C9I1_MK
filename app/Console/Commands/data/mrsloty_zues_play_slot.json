@@ -1,0 +1,831 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "zeusplay-fairys-golden-path",
+            "game_name": "Fairys Golden Path",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-fairys-golden-path.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-farm-madness",
+            "game_name": "Farm Madness",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-farm-madness.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-wild-charger",
+            "game_name": "Wild Charger",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-wild-charger.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-the-emperors-curse",
+            "game_name": "The Emperor's Curse",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-the-emperors-curse.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-5-deluxe",
+            "game_name": "Hot 5 Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-5-deluxe.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-diamond-freeze",
+            "game_name": "Diamond Freeze",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-diamond-freeze.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-27-lines-deluxe",
+            "game_name": "Hot 27 Lines Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-27-lines-deluxe.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hauntedwalker",
+            "game_name": "Haunted Walker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hauntedwalker.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-golden-dice-3",
+            "game_name": "Golden Dice 3",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-golden-dice-3.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-dice-tronic",
+            "game_name": "Dice Tronic",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-dice-tronic.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-40-flaming-lines",
+            "game_name": "40 Flaming Lines",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-40-flaming-lines.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-captain-nelson-deluxe",
+            "game_name": "Captain Nelson Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-captain-nelson-deluxe.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-disco-fever",
+            "game_name": "Disco Fever",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-disco-fever.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-the-divine-12th",
+            "game_name": "The Divine 12th",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-the-divine-12th.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-infinium",
+            "game_name": "Infinium",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-infinium.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-diamonds-fortune",
+            "game_name": "Diamond's Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-diamonds-fortune.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-don-mafioso",
+            "game_name": "Don Mafioso",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-don-mafioso.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-9-dragon-coins",
+            "game_name": "9 Dragon Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-9-dragon-coins.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-a-fistful-of-coins",
+            "game_name": "A Fistful of Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-a-fistful-of-coins.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-40",
+            "game_name": "Hot Diamonds 40",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-40.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-20",
+            "game_name": "Hot Diamonds 20",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-20.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-20-deluxe",
+            "game_name": "Hot 20 Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-20-deluxe.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-bubbles-pearls",
+            "game_name": "Bubbles & Pearls",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-bubbles-pearls.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-great-buffalo",
+            "game_name": "Great Buffalo",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-great-buffalo.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-arabian-dream-remastered",
+            "game_name": "Arabian Dream Remastered",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-arabian-dream-remastered.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-fire-twenty-deluxe",
+            "game_name": "Fire Twenty Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-fire-twenty-deluxe.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-super-hot",
+            "game_name": "Super Hot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-super-hot.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-the-lost-temple",
+            "game_name": "The Lost Temple",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-the-lost-temple.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-mad-cubes-25",
+            "game_name": "Mad Cubes 25",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-mad-cubes-25.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-royal-jewels",
+            "game_name": "Royal Jewels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-royal-jewels.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-magic-charm",
+            "game_name": "Magic Charm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-magic-charm.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-snake-eyes",
+            "game_name": "Snake Eyes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-snake-eyes.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-butterfly-hot-10",
+            "game_name": "Butterfly Hot 10",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-butterfly-hot-10.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-le-mystere-du-prince",
+            "game_name": "Le Mystere Du Prince",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-le-mystere-du-prince.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-trojan-horse-tiny-heroes",
+            "game_name": "Trojan Horse Tiny Heroes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-trojan-horse-tiny-heroes.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-lady-of-the-forest",
+            "game_name": "Lady Of The Forest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-lady-of-the-forest.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-star-frenzy",
+            "game_name": "Star Frenzy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-star-frenzy.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-abby-and-the-witch",
+            "game_name": "Abby And The Witch",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-abby-and-the-witch.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-page-of-fortune-deluxe",
+            "game_name": "Page Of Fortune Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-page-of-fortune-deluxe.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-amuns-book-hd",
+            "game_name": "Amuns Book hd",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-amuns-book-hd.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-the-explorers-quest",
+            "game_name": "The Explorers Quest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-the-explorers-quest.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-dice-tronic-x",
+            "game_name": "Dice Tronic X",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-dice-tronic-x.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-dice-tronic-xl",
+            "game_name": "Dice Tronic XL",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-dice-tronic-xl.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-mad-cubes-50",
+            "game_name": "Mad Cubes 50",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-mad-cubes-50.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-super-hot-bbq-50",
+            "game_name": "Super Hot BBQ 50",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-super-hot-bbq-50.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-wilds-and-pirates",
+            "game_name": "Wilds And Pirates",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-wilds-and-pirates.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-diamonds-fortune-dice",
+            "game_name": "Diamond's Fortune Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-diamonds-fortune-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-15-dragon-coins",
+            "game_name": "15 Dragon Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-15-dragon-coins.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-farm-madness-christmas-edition",
+            "game_name": "Farm Madness Christmas Edition",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-farm-madness-christmas-edition.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-5-dice",
+            "game_name": "Hot Diamonds 5 Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-5-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-i-love-greece",
+            "game_name": "I Love Greece",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-i-love-greece.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-amuns-book-hd-6",
+            "game_name": "Amun's Book HD 6",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-amuns-book-hd-6.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-diamond-freeze-dice",
+            "game_name": "Diamond Freeze Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-diamond-freeze-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-5",
+            "game_name": "Hot Diamonds 5",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-5.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-100-dice",
+            "game_name": "Hot Diamonds 100 Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-100-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-20-dice",
+            "game_name": "Hot Diamonds 20 Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-20-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-ricko-galactico",
+            "game_name": "Ricko Galactico",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-ricko-galactico.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-100",
+            "game_name": "Hot Diamonds 100",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-100.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-wild-pink-cadillac",
+            "game_name": "Wild Pink Cadillac",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-wild-pink-cadillac.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-hot-diamonds-40-dice",
+            "game_name": "Hot Diamonds 40 Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-hot-diamonds-40-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-the-zodiac-12-water-edition",
+            "game_name": "The Zodiac 12 Water Edition",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-the-zodiac-12-water-edition.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-candy-land",
+            "game_name": "Candy Land",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-candy-land.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-highway-rebels",
+            "game_name": "Highway Rebels",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-highway-rebels.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-eternal-desire",
+            "game_name": "Eternal Desire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-eternal-desire.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-haunted-walker-2-hold-and-win",
+            "game_name": "Haunted Walker 2: Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-haunted-walker-2-hold-and-win.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-butterfly-classic",
+            "game_name": "Butterfly Classic",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-butterfly-classic.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-wild-pink-cadillac-aussie-christmas",
+            "game_name": "Wild Pink Cadillac Aussie Christmas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-wild-pink-cadillac-aussie-christmas.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-candyland-christmas-treats",
+            "game_name": "Candy Land Christmas Treats",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-candyland-christmas-treats.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-great-buffalo-christmas-charm",
+            "game_name": "Great Buffalo Christmas Charm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-great-buffalo-christmas-charm.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-queensofcards",
+            "game_name": "Queens of Cards",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-queensofcards.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-amuns-book-hd-deluxe",
+            "game_name": "Amun's Book HD Deluxe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-amuns-book-hd-deluxe.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-the-fortuner",
+            "game_name": "The Fortuner",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-the-fortuner.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-9-dragon-coins-dice",
+            "game_name": "9 Dragon Coins Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-9-dragon-coins-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-great-buffalo-hold-and-win",
+            "game_name": "Great Buffalo Hold And Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-great-buffalo-hold-and-win.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-get-hot-chili-peppers",
+            "game_name": "Get Hot Chili Peppers",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-get-hot-chili-peppers.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-a-fistful-of-coins-dice",
+            "game_name": "A Fistful of Coins Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-a-fistful-of-coins-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-the-zodiac-12-water-edition-dice",
+            "game_name": "The Zodiac 12 Water Edition Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-the-zodiac-12-water-edition-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-giga-fruits",
+            "game_name": "Gigafruits",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-giga-fruits.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-great-buffalo-dice",
+            "game_name": "Great Buffalo Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-great-buffalo-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-get-hot-chili-peppers-dice",
+            "game_name": "Get Hot Chili Peppers Dice",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-get-hot-chili-peppers-dice.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-giga-ricko",
+            "game_name": "Giga Ricko",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-giga-ricko.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "zeusplay-kings-of-cards",
+            "game_name": "Kings of Cards",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1101/SLOT/zeusplay-kings-of-cards.png",
+            "product_id": 1160,
+            "product_code": 1101,
+            "support_currency": "HKD,ETB,NOK,VND,CAD,INR,MYR,NGN,USDT,USD,RON,MMK,JPY,ARS,CDF,PEN,ZAR,BRL,KRW,CLP,DKK,UAH,IDR,TWD,HRK,PLN,CNY,AMD,SEK,QAR,AUD,NZD,IRR,EUR,CHF,BDT,COP,SGD,TRY,KHR,TND,CZK,XAF,ZMW,MXN,AOA,AED,BGN,KES,RUB,GBP,UGX,MAD,SAR,THB,PKR,AZN,HUF,MNT,UYU,UZS,PHP",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "82"
+    }
+}

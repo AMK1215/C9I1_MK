@@ -9,73 +9,233 @@
             "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1001.png",
             "product_id": 1239,
             "product_code": 1157,
-            "support_currency": "MYR,EUR,COP,CNY,BRL,PHP,KRW,IDR,THB,MMK,USD,BDT,AOA,KES,HKD,TWD,VND,INR,MXN,NGN,AUD,PEN,PKR",
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "1002",
-            "game_name": "Crash 3DX",
+            "game_code": "5004",
+            "game_name": "Hi Lo",
             "game_type": "OTHER",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1002.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5004.png",
             "product_id": 1239,
             "product_code": 1157,
-            "support_currency": "MYR,EUR,COP,CNY,BRL,PHP,KRW,IDR,THB,MMK,USD,BDT,AOA,KES,HKD,TWD,VND,INR,MXN,NGN,AUD,PEN,PKR",
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "1003",
-            "game_name": "Crash Blood Burst",
+            "game_code": "5006",
+            "game_name": "Plinko Egypt",
             "game_type": "OTHER",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1003.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5006.png",
             "product_id": 1239,
             "product_code": 1157,
-            "support_currency": "MYR,EUR,COP,CNY,BRL,PHP,KRW,IDR,THB,MMK,USD,BDT,AOA,KES,HKD,TWD,VND,INR,MXN,NGN,AUD,PEN,PKR",
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "1004",
+            "game_code": "1010:bloodburst",
+            "game_name": "Blood Burst",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1010:bloodburst.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2004",
+            "game_name": "Guess the Cup",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/2004.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5002",
+            "game_name": "Dice",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5002.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1010:ghostly",
             "game_name": "Crash Ghostly",
             "game_type": "OTHER",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1004.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1010:ghostly.png",
             "product_id": 1239,
             "product_code": 1157,
-            "support_currency": "MYR,EUR,COP,CNY,BRL,PHP,KRW,IDR,THB,MMK,USD,BDT,AOA,KES,HKD,TWD,VND,INR,MXN,NGN,AUD,PEN,PKR",
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "1005",
+            "game_code": "1010:witch",
             "game_name": "Crash Witch",
             "game_type": "OTHER",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1005.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1010:witch.png",
             "product_id": 1239,
             "product_code": 1157,
-            "support_currency": "MYR,EUR,COP,CNY,BRL,PHP,KRW,IDR,THB,MMK,USD,BDT,AOA,KES,HKD,TWD,VND,INR,MXN,NGN,AUD,PEN,PKR",
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "1006",
+            "game_code": "1011",
+            "game_name": "Crash Over/Under",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1011.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2003",
+            "game_name": "Find the Stone",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/2003.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5003",
+            "game_name": "Mines",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5003.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1010:1917",
             "game_name": "Crash 1917",
             "game_type": "OTHER",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1006.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1010:1917.png",
             "product_id": 1239,
             "product_code": 1157,
-            "support_currency": "MYR,EUR,COP,CNY,BRL,PHP,KRW,IDR,THB,MMK,USD,BDT,AOA,KES,HKD,TWD,VND,INR,MXN,NGN,AUD,PEN,PKR",
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
             "status": "ACTIVATED"
         },
         {
-            "game_code": "1007",
-            "game_name": "Crash Dragon Flare",
+            "game_code": "1010:dragonflare",
+            "game_name": "Dragon Flare",
             "game_type": "OTHER",
-            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1007.png",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1010:dragonflare.png",
             "product_id": 1239,
             "product_code": 1157,
-            "support_currency": "MYR,EUR,COP,CNY,BRL,PHP,KRW,IDR,THB,MMK,USD,BDT,AOA,KES,HKD,TWD,VND,INR,MXN,NGN,AUD,PEN,PKR",
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5008",
+            "game_name": "Limbo",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5008.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "4001",
+            "game_name": "Poop",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/4001.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5014",
+            "game_name": "City Wheel",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5014.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5015",
+            "game_name": "Balloon",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5015.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1010",
+            "game_name": "iMoon Crash",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1010.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1010:3dx",
+            "game_name": "Crash 3DX",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1010:3dx.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1012",
+            "game_name": "Crash Range",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1012.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "1008",
+            "game_name": "Crash Classic",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/1008.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "2005",
+            "game_name": "Goal a Penalty",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/2005.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "5001",
+            "game_name": "Plinko",
+            "game_type": "OTHER",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1157/OTHER/5001.png",
+            "product_id": 1239,
+            "product_code": 1157,
+            "support_currency": "THB,USD,BND,BOB,BYN,CHF,QAR,UZS,COP,GTQ,GYD,NAD,MAD,VES,MNT,EUR,AUD,TWD,CLP,GEL,HUF,LSL,TZS,UYU,XOF,MYR,DZD,TRY,JPY,VND,HKD,MZN,BDT,KRW,CNY,UAH,PEN,EGP,ETB,HTG,PGK,SZL,UGX,HRK,AOA,MXN,AMD,AZN,CZK,DKK,GBP,MWK,PLN,INR,PKR,BGN,CDF,LBP,MDL,MVR,RON,SAR,CRC,NPR,TND,NGN,KES,LKR,NOK,RUB,TOP,BRL,PHP,ARS,XAF,IDR,MMK,AED,CAD,GHS,RWF,NZD,PAB,SEK,TMT,ZMW",
             "status": "ACTIVATED"
         }
     ],
     "pagination": {
         "size": 0,
         "offset": 0,
-        "total": "7"
+        "total": "23"
     }
 }

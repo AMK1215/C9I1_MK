@@ -1,0 +1,971 @@
+{
+    "code": 0,
+    "message": "",
+    "provider_games": [
+        {
+            "game_code": "booongo2-3-coins",
+            "game_name": "3 Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-coins.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-coins-egypt",
+            "game_name": "3 Coins: Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-coins-egypt.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-aztec-fire",
+            "game_name": "Aztec Fire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-aztec-fire.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-aztec-sun-hold-and-win",
+            "game_name": "Aztec Sun Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-aztec-sun-hold-and-win.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-big-heist",
+            "game_name": "Big Heist",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-big-heist.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-black-wolf",
+            "game_name": "Black Wolf",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-black-wolf.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-candy-boom",
+            "game_name": "Candy Boom",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-candy-boom.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-coin-volcano",
+            "game_name": "Coin Volcano",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-coin-volcano.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-dragon-pearls-hold-and-win",
+            "game_name": "Dragon Pearls: hold and win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-dragon-pearls-hold-and-win.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-forest-spirit",
+            "game_name": "Forest Spirit",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-forest-spirit.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-gold-express",
+            "game_name": "Gold Express",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-gold-express.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-grab-the-gold",
+            "game_name": "Grab the Gold!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-grab-the-gold.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-great-panda",
+            "game_name": "Great Panda",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-great-panda.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-green-chilli",
+            "game_name": "Green Chilli",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-green-chilli.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-hit-the-gold",
+            "game_name": "Hit the Gold!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-hit-the-gold.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-lady-fortune",
+            "game_name": "Lady Fortune",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-lady-fortune.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-lotus-charm",
+            "game_name": "Lotus Charm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-lotus-charm.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-magic-apple",
+            "game_name": "Magic Apple",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-magic-apple.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-magic-apple-2",
+            "game_name": "Magic Apple 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-magic-apple-2.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-moon-sisters",
+            "game_name": "Moon sisters",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-moon-sisters.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-pearl-diver",
+            "game_name": "Pearl Diver",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-pearl-diver.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-pearl-diver-2-treasure-chest",
+            "game_name": "Pearl Diver 2 Treasure Chest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-pearl-diver-2-treasure-chest.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-queen-of-the-sun",
+            "game_name": "Queen of the Sun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-queen-of-the-sun.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-scarab-boost",
+            "game_name": "Scarab Boost",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-scarab-boost.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-scarab-temple",
+            "game_name": "Scarab Temple",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-scarab-temple.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sticky-piggy",
+            "game_name": "Sticky Piggy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sticky-piggy.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sun-of-egypt",
+            "game_name": "Sun of Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sun-of-egypt.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sun-of-egypt-2",
+            "game_name": "Sun of Egypt 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sun-of-egypt-2.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sun-of-egypt-3",
+            "game_name": "Sun of Egypt 3",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sun-of-egypt-3.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-thunder-of-olympus",
+            "game_name": "Thunder of Olympus",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-thunder-of-olympus.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-tiger-jungle",
+            "game_name": "Tiger Jungle",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-tiger-jungle.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-tiger-stone",
+            "game_name": "Tiger Stone",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-tiger-stone.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-tigers-gold",
+            "game_name": "Tigers Gold",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-tigers-gold.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-wolf-night",
+            "game_name": "Wolf Night",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-wolf-night.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-wolf-saga",
+            "game_name": "Wolf Saga",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-wolf-saga.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-tiger-gems",
+            "game_name": "Tiger Gems",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-tiger-gems.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-book-of-sun-multichance",
+            "game_name": "Book of Sun Multichance",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-book-of-sun-multichance.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-more-magic-apple",
+            "game_name": "More Magic Apple",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-more-magic-apple.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-egypt-fire",
+            "game_name": "Egypt Fire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-egypt-fire.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-yo-ho-gold",
+            "game_name": "Yo-Ho Gold!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-yo-ho-gold.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "IDR,BRL,PHP,VND,THB,INR,CNY",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-maya-sun",
+            "game_name": "Maya Sun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-maya-sun.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-boom-boom-gold",
+            "game_name": "Boom! Boom! Gold!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-boom-boom-gold.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-dragon-wealth",
+            "game_name": "Dragon Wealth",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-dragon-wealth.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-green-chilli-2",
+            "game_name": "Green Chilli 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-green-chilli-2.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-little-farm",
+            "game_name": "Little Farm",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-little-farm.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-15-dragon-pearls-hold-and-win",
+            "game_name": "15 Dragon Pearls: Hold and Win",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-15-dragon-pearls-hold-and-win.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-black-wolf-2",
+            "game_name": "Black Wolf 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-black-wolf-2.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-goddess-of-egypt",
+            "game_name": "Goddess of Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-goddess-of-egypt.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "MMK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-hit-more-gold",
+            "game_name": "Hit more Gold!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-hit-more-gold.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-rio-gems",
+            "game_name": "Rio Gems",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-rio-gems.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-hot-chillies",
+            "game_name": "3 Hot Chillies",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-hot-chillies.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sunlight-princess",
+            "game_name": "Sunlight Princess",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sunlight-princess.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-coin-up",
+            "game_name": "Coin Up",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-coin-up.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-777-coins",
+            "game_name": "777 Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-777-coins.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-aztec-fire-2",
+            "game_name": "Aztec Fire 2",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-aztec-fire-2.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sun-of-egypt-4",
+            "game_name": "Sun of Egypt 4",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sun-of-egypt-4.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo-3-china-pots",
+            "game_name": "3 China Pots",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo-3-china-pots.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-grab-more-gold",
+            "game_name": "Grab More Gold!",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-grab-more-gold.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-egypt-chest",
+            "game_name": "3 Egypt Chest",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-egypt-chest.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-fishing_bear",
+            "game_name": "Fishin' Bear",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-fishing_bear.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-lamp-of-wonder",
+            "game_name": "Lamp of Wonder",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-lamp-of-wonder.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-crystal-scarabs",
+            "game_name": "Crystal Scarabs",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-crystal-scarabs.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-lion-coins",
+            "game_name": "Lion Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-lion-coins.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-gold-nuggets",
+            "game_name": "Gold Nuggets",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-gold-nuggets.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-super-sticky-piggy",
+            "game_name": "Super Sticky Piggy",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-super-sticky-piggy.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-coin-up-lightning",
+            "game_name": "Coin Up: Lightning",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-coin-up-lightning.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sky-coins",
+            "game_name": "Sky Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sky-coins.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-super-hot-chilli",
+            "game_name": "Super Hot Chilli",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-super-hot-chilli.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-lucky-penny",
+            "game_name": "Lucky Penny",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-lucky-penny.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-hot-fire-fruits",
+            "game_name": "Hot Fire Fruits",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-hot-fire-fruits.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-pots-of-egypt",
+            "game_name": "3 Pots of Egypt",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-pots-of-egypt.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-china-festival",
+            "game_name": "China Festival",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-china-festival.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-happy-fish",
+            "game_name": "Happy Fish",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-happy-fish.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-coin-volcanoes",
+            "game_name": "3 Coin Volcanoes",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-coin-volcanoes.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-hawaii-riches",
+            "game_name": "Hawaii Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-hawaii-riches.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-rocket-wins",
+            "game_name": "Rocket Wins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-rocket-wins.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-coin-lamp",
+            "game_name": "Coin Lamp",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-coin-lamp.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-aztec-temples",
+            "game_name": "3 Aztec Temples",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-aztec-temples.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-power-sun",
+            "game_name": "Power Sun",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-power-sun.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-nights-of-fire",
+            "game_name": "Nights of Fire",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-nights-of-fire.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "AMD,HRK,SEK,UYU,PHP,USD,CAD,SAR,PKR,BRL,INR,SGD,EUR,USDT,GBP,PEN,UAH,BGN,XAF,AZN,VND,HKD,MXN,ARS,CLP,JPY,NGN,TRY,KHR,DKK,CNY,KRW,RUB,ZMW,RON,BDT,TND,COP,PLN,AOA,UGX,MAD,NOK,NZD,THB,AED,CHF,HUF,IDR,KES,TWD,MNT,MYR,ETB,IRR,UZS,ZAR,MMK,AUD,CDF,CZK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-fruits-and-seven-fever",
+            "game_name": "Fruits & Seven: Fever",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-fruits-and-seven-fever.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "AMD,HRK,SEK,UYU,PHP,USD,CAD,SAR,PKR,BRL,INR,SGD,EUR,USDT,GBP,PEN,UAH,BGN,XAF,AZN,VND,HKD,MXN,ARS,CLP,JPY,NGN,TRY,KHR,DKK,CNY,KRW,RUB,ZMW,RON,BDT,TND,COP,PLN,AOA,UGX,MAD,NOK,NZD,THB,AED,CHF,HUF,IDR,KES,TWD,MNT,MYR,ETB,IRR,UZS,ZAR,MMK,AUD,CDF,CZK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-mariachi-lock",
+            "game_name": "Mariachi Lock",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-mariachi-lock.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "AMD,HRK,SEK,UYU,PHP,USD,CAD,SAR,PKR,BRL,INR,SGD,EUR,USDT,GBP,PEN,UAH,BGN,XAF,AZN,VND,HKD,MXN,ARS,CLP,JPY,NGN,TRY,KHR,DKK,CNY,KRW,RUB,ZMW,RON,BDT,TND,COP,PLN,AOA,UGX,MAD,NOK,NZD,THB,AED,CHF,HUF,IDR,KES,TWD,MNT,MYR,ETB,IRR,UZS,ZAR,MMK,AUD,CDF,CZK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-fruit-fever-5-lines",
+            "game_name": "Fruit Fever 5 Lines",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-fruit-fever-5-lines.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "CDF,TWD,USDT,TND,BGN,GBP,PHP,SGD,RUB,IDR,HRK,CHF,IRR,INR,CNY,AOA,UYU,JPY,PEN,UGX,NOK,KES,MXN,CAD,THB,AED,HUF,TRY,MMK,ETB,NZD,DKK,RON,USD,ARS,COP,MNT,SEK,KRW,PKR,AZN,PLN,BRL,MYR,CZK,EUR,AUD,ZAR,VND,KHR,BDT,HKD,CLP,XAF,SAR,UZS,NGN,UAH,AMD,ZMW",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-fruits-and-joker-fever",
+            "game_name": "Fruits & Joker: Fever",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-fruits-and-joker-fever.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "AMD,HRK,SEK,UYU,PHP,USD,CAD,SAR,PKR,BRL,INR,SGD,EUR,USDT,GBP,PEN,UAH,BGN,XAF,AZN,VND,HKD,MXN,ARS,CLP,JPY,NGN,TRY,KHR,DKK,CNY,KRW,RUB,ZMW,RON,BDT,TND,COP,PLN,AOA,UGX,MAD,NOK,NZD,THB,AED,CHF,HUF,IDR,KES,TWD,MNT,MYR,ETB,IRR,UZS,ZAR,MMK,AUD,CDF,CZK",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-hungry-pandas",
+            "game_name": "3 Hungry Pandas",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-hungry-pandas.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "CDF,TWD,USDT,TND,BGN,GBP,PHP,SGD,RUB,IDR,HRK,CHF,IRR,INR,CNY,AOA,UYU,JPY,PEN,UGX,NOK,KES,MXN,CAD,THB,AED,HUF,TRY,MMK,ETB,NZD,DKK,RON,USD,ARS,COP,MNT,SEK,KRW,PKR,AZN,PLN,BRL,MYR,CZK,EUR,AUD,ZAR,VND,KHR,BDT,HKD,CLP,XAF,SAR,UZS,NGN,UAH,AMD,ZMW",
+            "status": "DEACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-clover-pots",
+            "game_name": "3 Clover Pots",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-clover-pots.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-lava-coins",
+            "game_name": "Lava Coins",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-lava-coins.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-golden-teapot",
+            "game_name": "Golden Teapot",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-golden-teapot.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-sky-pearls",
+            "game_name": "Sky Pearls",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-sky-pearls.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-fortune-globe",
+            "game_name": "Fortune Globe",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-fortune-globe.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-african-spirit-sticky-wilds",
+            "game_name": "African Spirit Sticky Wilds",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-african-spirit-sticky-wilds.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-clover-pots-extra",
+            "game_name": "3 Clover Pots Extra",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-clover-pots-extra.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-scarab-riches",
+            "game_name": "Scarab Riches",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-scarab-riches.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-dancing-joker",
+            "game_name": "Dancing Joker",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-dancing-joker.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-super-hot-chillies",
+            "game_name": "3 Super Hot Chillis",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-super-hot-chillies.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        },
+        {
+            "game_code": "booongo2-3-african-drums",
+            "game_name": "3 African Drums",
+            "game_type": "SLOT",
+            "image_url": "https://images.gscplusmd.com/statics/production/images/games/1070/SLOT/booongo2-3-african-drums.png",
+            "product_id": 1150,
+            "product_code": 1070,
+            "support_currency": "KES,UZS,ZMW,PHP,MYR,PLN,XAF,AZN,GBP,RUB,COP,CZK,IRR,RON,NGN,SAR,TRY,UAH,CAD,ETB,PEN,INR,CHF,DKK,IDR,PKR,HRK,HUF,MAD,CNY,KRW,USDT,NZD,MXN,JPY,HKD,TWD,MNT,BRL,KHR,NOK,USD,AOA,SGD,TND,AMD,SEK,QAR,VND,THB,AED,UGX,MMK,BDT,ZAR,CDF,CLP,ARS,BGN,UYU,EUR,AUD",
+            "status": "ACTIVATED"
+        }
+    ],
+    "pagination": {
+        "size": 0,
+        "offset": 0,
+        "total": "96"
+    }
+}
