@@ -13,11 +13,12 @@ class PromotionController extends Controller
 
     public function index()
     {
-        $user = Auth::user();
+        // $user = Auth::user();
 
-        $admin = $user->parent;
+        // $admin = $user->parent;
 
-        $data = Promotion::where('admin_id', $admin->agent_id)->get();
+        // $data = Promotion::where('admin_id', $admin->agent_id)->get();
+        $data = Promotion::get();
 
         return $this->success($data, 'Promotion retrieved successfully.');
     }

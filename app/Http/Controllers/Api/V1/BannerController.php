@@ -18,54 +18,59 @@ class BannerController extends Controller
 
     public function index()
     {
-        $user = Auth::user();
+        // $user = Auth::user();
 
-        $admin = $user->parent->parent;
+        // $admin = $user->parent->parent;
 
-        $data = Banner::where('admin_id', $admin->agent_id)->get();
+        // $data = Banner::where('admin_id', $admin->agent_id)->get();
+        $data = Banner::get();
 
         return $this->success($data, 'Banners retrieved successfully.');
     }
 
     public function TopTen()
     {
-        $user = Auth::user();
-        $admin = $user->parent->parent;
+        // $user = Auth::user();
+        // $admin = $user->parent->parent;
 
-        $data = TopTenWithdraw::where('admin_id', $admin->agent_id)->get();
+        // $data = TopTenWithdraw::where('admin_id', $admin->agent_id)->get();
+        $data = TopTenWithdraw::get();
 
         return $this->success($data, 'TopTen Winner retrieved successfully.');
     }
 
     public function bannerText()
     {
-        $user = Auth::user();
+        // $user = Auth::user();
 
-        $admin = $user->parent->parent;
+        // $admin = $user->parent->parent;
 
-        $data = BannerText::where('admin_id', $admin->agent_id)->get();
+        // $data = BannerText::where('admin_id', $admin->agent_id)->get();
+        $data = BannerText::get();
 
         return $this->success($data, 'BannerTexts retrieved successfully.');
     }
 
     public function AdsBannerIndex()
     {
-        $user = Auth::user();
+        // $user = Auth::user();
 
-        $admin = $user->parent->parent;
+        // $admin = $user->parent->parent;
 
-        $data = BannerAds::where('admin_id', $admin->agent_id)->get();
+        // $data = BannerAds::where('admin_id', $admin->agent_id)->get();
+        $data = BannerAds::latest()->first();
 
         return $this->success($data, 'BannerAds retrieved successfully.');
     }
 
     public function winnerText()
     {
-        $user = Auth::user();
+        // $user = Auth::user();
 
-        $admin = $user->parent->parent;
+        // $admin = $user->parent->parent;
 
-        $data = WinnerText::where('owner_id', $admin->agent_id)->latest()->first();
+        // $data = WinnerText::where('owner_id', $admin->agent_id)->latest()->first();
+        $data = WinnerText::latest()->first();
 
         return $this->success($data, 'Winner Text retrieved successfully.');
 
@@ -73,16 +78,17 @@ class BannerController extends Controller
 
     public function ApiVideoads()
     {
-        $user = Auth::user();
+        // $user = Auth::user();
 
-        // Traverse up the hierarchy to find the root admin
-        $admin = $user;
-        while ($admin->parent->parent) {
-            $admin = $admin->parent->parent;
-        }
+        // // Traverse up the hierarchy to find the root admin
+        // $admin = $user;
+        // while ($admin->parent) {
+        //     $admin = $admin->parent;
+        // }
 
-        // Fetch banners for the determined admin
-        $data = AdsVedio::where('admin_id', $admin->id)->get();
+        // // Fetch banners for the determined admin
+        // $data = AdsVedio::where('admin_id', $admin->id)->get();
+        $data = AdsVedio::get();
 
         return $this->success($data, 'AdsVedio retrieved successfully.');
     }
