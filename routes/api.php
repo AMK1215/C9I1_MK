@@ -34,7 +34,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\V1\TwoDigit\TwoDigitBetController;
 use App\Http\Controllers\Api\V2\Shan\ShankomeeGetBalanceController;
-
+use App\Http\Controllers\Api\V1\DirectLaunchGameController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -68,6 +68,7 @@ Route::post('/transactions', [ShanTransactionController::class, 'ShanTransaction
 
 Route::group(['middleware' => ['auth:sanctum']], function () {
     Route::post('/seamless/launch-game', [LaunchGameController::class, 'launchGame']);
+    Route::post('/seamless/direct-launch-game', [DirectLaunchGameController::class, 'launchGame']);
 
     // main balance
     Route::post('exchange-main-to-game', [TransactionController::class, 'MainToGame']);
