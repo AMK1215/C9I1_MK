@@ -16,7 +16,7 @@ class MrSlotyRerakeSlotSeeder extends Seeder
      */
     public function run()
     {
-        $jsonPath = base_path('app/Console/Commands/data/mrslotty_rerake_slot.json');
+        $jsonPath = base_path('app/Console/Commands/data/mrslotty_redrak_slot.json');
         $data = json_decode(File::get($jsonPath), true);
         $now = Carbon::now();
 
